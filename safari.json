@@ -1,0 +1,435 @@
+{
+    "name":"Safari Hypermarket",
+    "urls": [
+        {
+            "category": "Food & Beverages",
+            "subcat": "Pasta & Noodles",
+            "url": "https://safarihypermarket.ae/products/?category=1305&parent=1004"
+        },
+        {
+            "category": "Food & Beverages",
+            "subcat": "Baking & Sweeteners",
+            "url": "https://safarihypermarket.ae/products/?category=1291&parent=1004"
+        },
+        {
+            "category": "Food & Beverages",
+            "subcat": "Biscuits",
+            "url": "https://safarihypermarket.ae/products/?category=1313&parent=1004"
+        },
+        {
+            "category": "Food & Beverages",
+            "subcat": "Breads & Cakes",
+            "url": "https://safarihypermarket.ae/products/?category=1195&parent=1004"
+        },
+        {
+            "category": "Food & Beverages",
+            "subcat": "Breakfast Cereals",
+            "url": "https://safarihypermarket.ae/products/?category=1249&parent=1004"
+        },
+        {
+            "category": "Food & Beverages",
+            "subcat": "Burgers",
+            "url": "https://safarihypermarket.ae/products/?category=1198&parent=1004"
+        },
+        {
+            "category": "Food & Beverages",
+            "subcat": "Canned Food",
+            "url": "https://safarihypermarket.ae/products/?category=1202&parent=1004"
+        },
+        {
+            "category": "Food & Beverages",
+            "subcat": "Chocolate & Cookies",
+            "url": "https://safarihypermarket.ae/products/?category=1196&parent=1004"
+        },        
+        {
+            "category": "Food & Beverages",
+            "subcat": "Cold Beverages",
+            "url": "https://safarihypermarket.ae/products/?category=1189&parent=1004"
+        },
+        {
+            "category": "Food & Beverages",
+            "subcat": "Condiments",
+            "url": "https://safarihypermarket.ae/products/?category=1312&parent=1004"
+        },
+        {
+            "category": "Food & Beverages",
+            "subcat": "Diabetic & Health",
+            "url": "https://safarihypermarket.ae/products/?category=1205&parent=1004"
+        },
+        {
+            "category": "Food & Beverages",
+            "subcat": "Ethnic Food",
+            "url": "https://safarihypermarket.ae/products/?category=1261&parent=1004"
+        },
+        {
+            "category": "Food & Beverages",
+            "subcat": "Frozen Food",
+            "url": "https://safarihypermarket.ae/products/?category=1282&parent=1004"
+        },        
+        {
+            "category": "Food & Beverages",
+            "subcat": "Frozen Fruits & Pulp",
+            "url": "https://safarihypermarket.ae/products/?category=1277&parent=1004"
+        },
+        {
+            "category": "Food & Beverages",
+            "subcat": "Frozen Meat & Poultry",
+            "url": "https://safarihypermarket.ae/products/?category=1276&parent=1004"
+        },
+        {
+            "category": "Food & Beverages",
+            "subcat": "Frozen Ready to Eat",
+            "url": "https://safarihypermarket.ae/products/?category=1281&parent=1004"
+        },
+        {
+            "category": "Food & Beverages",
+            "subcat": "Frozen Seafood",
+            "url": "https://safarihypermarket.ae/products/?category=1265&parent=1004"
+        },
+        {
+            "category": "Food & Beverages",
+            "subcat": "Frozen Vegetables",
+            "url": "https://safarihypermarket.ae/products/?category=1266&parent=1004"
+        },
+        {
+            "category": "Food & Beverages",
+            "subcat": "Ghee",
+            "url": "https://safarihypermarket.ae/products/?category=1311&parent=1004"
+        },
+        {
+            "category": "Food & Beverages",
+            "subcat": "Hot Beverages",
+            "url": "https://safarihypermarket.ae/products/?category=1203&parent=1004"
+        },
+        {
+            "category": "Food & Beverages",
+            "subcat": "Ice Cream & Desserts",
+            "url": "https://safarihypermarket.ae/products/?category=1200&parent=1004"
+        },
+        {
+            "category": "Food & Beverages",
+            "subcat": "Instant Drink",
+            "url": "https://safarihypermarket.ae/products/?category=1248&parent=1004"
+        },
+        {
+            "category": "Food & Beverages",
+            "subcat": "Jams & Spreads",
+            "url": "https://safarihypermarket.ae/products/?category=1293&parent=1004"
+        },
+        {
+            "category": "Food & Beverages",
+            "subcat": "Long Life Juices",
+            "url": "https://safarihypermarket.ae/products/?category=1193&parent=1004"
+        },
+        {
+            "category": "Food & Beverages",
+            "subcat": "Mineral Water",
+            "url": "https://safarihypermarket.ae/products/?category=1303&parent=1004"
+        },
+        {
+            "category": "Food & Beverages",
+            "subcat": "Oil",
+            "url": "https://safarihypermarket.ae/products/?category=1190&parent=1004"
+        },
+        {
+            "category": "Food & Beverages",
+            "subcat": "Pasta & Noodles",
+            "url": "https://safarihypermarket.ae/products/?category=1305&parent=1004"
+        },
+        {
+            "category": "Food & Beverages",
+            "subcat": "Pulses, Spices & Herbs",
+            "url": "https://safarihypermarket.ae/products/?category=1290&parent=1004"
+        },
+        {
+            "category": "Food & Beverages",
+            "subcat": "Rice",
+            "url": "https://safarihypermarket.ae/products/?category=1192&parent=1004"
+        },
+        {
+            "category": "Food & Beverages",
+            "subcat": "Roastery & Spices",
+            "url": "https://safarihypermarket.ae/products/?category=1204&parent=1004"
+        },
+        {
+            "category": "Food & Beverages",
+            "subcat": "Snacks",
+            "url": "https://safarihypermarket.ae/products/?category=1185&parent=1004"
+        },
+        {
+            "category": "Food & Beverages",
+            "subcat": "Soups",
+            "url": "https://safarihypermarket.ae/products/?category=1315&parent=1004"
+        },
+        {
+            "category": "Food & Beverages",
+            "subcat": "Table Sauces",
+            "url": "https://safarihypermarket.ae/products/?category=1314&parent=1004"
+        },
+        {
+            "category": "Fresh Food",
+            "subcat": "Cheese & Margarine",
+            "url": "https://safarihypermarket.ae/products/?category=1199&parent=1005"
+        },
+        {
+            "category": "Fresh Food",
+            "subcat": "Delicatessen",
+            "url": "https://safarihypermarket.ae/products/?category=1270&parent=1005"
+        },
+        {
+            "category": "Fresh Food",
+            "subcat": "Fresh Chicken & Poultry",
+            "url": "https://safarihypermarket.ae/products/?category=1268&parent=1005"
+        },
+        {
+            "category": "Fresh Food",
+            "subcat": "Fresh Dairy",
+            "url": "https://safarihypermarket.ae/products/?category=1269&parent=1005"
+        },        
+        {
+            "category": "Fresh Food",
+            "subcat": "Fresh Desserts",
+            "url": "https://safarihypermarket.ae/products/?category=1201&parent=1005"
+        },
+        {
+            "category": "Fresh Food",
+            "subcat": "Fresh Eggs",
+            "url": "https://safarihypermarket.ae/products/?category=1197&parent=1005"
+        },
+        {
+            "category": "Fresh Food",
+            "subcat": "Fresh Fish & Meat",
+            "url": "https://safarihypermarket.ae/products/?category=1267&parent=1005"
+        },
+        {
+            "category": "Fresh Food",
+            "subcat": "Fresh Fruits & Vegetables",
+            "url": "https://safarihypermarket.ae/products/?category=1275&parent=1005"
+        },        
+        {
+            "category": "Fresh Food",
+            "subcat": "Safari Bakery",
+            "url": "https://safarihypermarket.ae/products/?category=1194&parent=1005"
+        },
+        {
+            "category": "Health & Beauty Care",
+            "subcat": "Premium Perfumes",
+            "url": "https://safarihypermarket.ae/products/?category=2144&parent=1006"
+        },
+        {
+            "category": "Health & Beauty Care",
+            "subcat": "Cosmetics",
+            "url": "https://safarihypermarket.ae/products/?category=1191&parent=1006"
+        },
+        {
+            "category": "Health & Beauty Care",
+            "subcat": "Feminine Care",
+            "url": "https://safarihypermarket.ae/products/?category=1264&parent=1006"
+        },
+        {
+            "category": "Health & Beauty Care",
+            "subcat": "Healthcare",
+            "url": "https://safarihypermarket.ae/products/?category=1289&parent=1006"
+        },
+        {
+            "category": "Health & Beauty Care",
+            "subcat": "Unisex",
+            "url": "https://safarihypermarket.ae/products/?category=1317&parent=1006"
+        },
+        {
+            "category": "Health & Beauty Care",
+            "subcat": "Bath Products",
+            "url": "https://safarihypermarket.ae/products/?category=1188&parent=1006"
+        },
+        {
+            "category": "Health & Beauty Care",
+            "subcat": "Dental Care",
+            "url": "https://safarihypermarket.ae/products/?category=1251&parent=1006"
+        },
+        {
+            "category": "Health & Beauty Care",
+            "subcat": "Hair Care",
+            "url": "https://safarihypermarket.ae/products/?category=1288&parent=1006"
+        },
+        {
+            "category": "Health & Beauty Care",
+            "subcat": "Men's Grooming",
+            "url": "https://safarihypermarket.ae/products/?category=1302&parent=1006"
+        },
+        {
+            "category": "Mobiles & Electronics",
+            "subcat": "Mobiles",
+            "url": "https://safarihypermarket.ae/products/?category=2111&parent=1012"
+        },
+        {
+            "category": "Mobiles & Electronics",
+            "subcat": "Wearable Gadgets",
+            "url": "https://safarihypermarket.ae/products/?category=2136&parent=1012"
+        },
+        {
+            "category": "Mobiles & Electronics",
+            "subcat": "Camera",
+            "url": "https://safarihypermarket.ae/products/?category=1244&parent=1012"
+        },
+        {
+            "category": "Mobiles & Electronics",
+            "subcat": "Games",
+            "url": "https://safarihypermarket.ae/products/?category=1283&parent=1012"
+        },
+        {
+            "category": "Mobiles & Electronics",
+            "subcat": "IT Accessories",
+            "url": "https://safarihypermarket.ae/products/?category=1292&parent=1012"
+        },        
+        {
+            "category": "Mobiles & Electronics",
+            "subcat": "TVs",
+            "url": "https://safarihypermarket.ae/products/?category=1216&parent=1012"
+        },
+        {
+            "category": "Mobiles & Electronics",
+            "subcat": "Mobile Peripherals",
+            "url": "https://safarihypermarket.ae/products/?category=2115&parent=1012"
+        },
+        {
+            "category": "Mobiles & Electronics",
+            "subcat": "Audio & Video",
+            "url": "https://safarihypermarket.ae/products/?category=1220&parent=1012"
+        },
+        {
+            "category": "Mobiles & Electronics",
+            "subcat": "Computers",
+            "url": "https://safarihypermarket.ae/products/?category=1250&parent=1012"
+        },        
+        {
+            "category": "Mobiles & Electronics",
+            "subcat": "Health & Style",
+            "url": "https://safarihypermarket.ae/products/?category=1287&parent=1012"
+        },
+        {
+            "category": "Mobiles & Electronics",
+            "subcat": "Phones",
+            "url": "https://safarihypermarket.ae/products/?category=1308&parent=1012"
+        },
+        {
+            "category": "Home Cleaners & Disposables",
+            "subcat": "Food Storage",
+            "url": "https://safarihypermarket.ae/products/?category=1252&parent=1007"
+        },        
+        {
+            "category": "Home Cleaners & Disposables",
+            "subcat": "Home Cleaners",
+            "url": "https://safarihypermarket.ae/products/?category=1183&parent=1007"
+        },
+        {
+            "category": "Home Cleaners & Disposables",
+            "subcat": "Paper Products",
+            "url": "https://safarihypermarket.ae/products/?category=1304&parent=1007"
+        },
+        {
+            "category": "Home Cleaners & Disposables",
+            "subcat": "Washing Detergent",
+            "url": "https://safarihypermarket.ae/products/?category=1320&parent=1007"
+        },
+        {
+            "category": "Baby Care",
+            "subcat": "Baby Food & Drinks",
+            "url": "https://safarihypermarket.ae/products/?category=1186&parent=1008"
+        },        
+        {
+            "category": "Baby Care",
+            "subcat": "Baby Accessories",
+            "url": "https://safarihypermarket.ae/products/?category=1187&parent=1008"
+        },
+        {
+            "category": "Home Living",
+            "subcat": "Batteries & Chargers",
+            "url": "https://safarihypermarket.ae/products/?category=1239&parent=1011"
+        },
+        {
+            "category": "Home Living",
+            "subcat": "DIY Tools",
+            "url": "https://safarihypermarket.ae/products/?category=1316&parent=1011"
+        },
+        {
+            "category": "Home Living",
+            "subcat": "Glassware",
+            "url": "https://safarihypermarket.ae/products/?category=1286&parent=1011"
+        },
+        {
+            "category": "Home Living",
+            "subcat": "Kitchen Appliances",
+            "url": "https://safarihypermarket.ae/products/?category=1240&parent=1011"
+        },
+        {
+            "category": "Home Living",
+            "subcat": "Major Appliances",
+            "url": "https://safarihypermarket.ae/products/?category=1218&parent=1011"
+        },
+        {
+            "category": "Home Living",
+            "subcat": "Plastic & Laundry",
+            "url": "https://safarihypermarket.ae/products/?category=1223&parent=1011"
+        },
+        {
+            "category": "Home Living",
+            "subcat": "Car Care Products",
+            "url": "https://safarihypermarket.ae/products/?category=1246&parent=1011"
+        },
+        {
+            "category": "Home Living",
+            "subcat": "General Electronics",
+            "url": "https://safarihypermarket.ae/products/?category=1285&parent=1011"
+        },
+        {
+            "category": "Home Living",
+            "subcat": "Home Appliances",
+            "url": "https://safarihypermarket.ae/products/?category=1262&parent=1011"
+        },
+        {
+            "category": "Home Living",
+            "subcat": "Kitchenwares",
+            "url": "https://safarihypermarket.ae/products/?category=1215&parent=1011"
+        },
+        {
+            "category": "Home Living",
+            "subcat": "Outdoor Products",
+            "url": "https://safarihypermarket.ae/products/?category=1245&parent=1011"
+        },
+        {
+            "category": "Home Living",
+            "subcat": "Plumbing",
+            "url": "https://safarihypermarket.ae/products/?category=1309&parent=1011"
+        },
+        {
+            "category": "Home Living",
+            "subcat": "Stationery",
+            "url": "https://safarihypermarket.ae/products/?category=1241&parent=1011"
+        },
+        {
+            "category": "Home Living",
+            "subcat": "Tableware",
+            "url": "https://safarihypermarket.ae/products/?category=1247&parent=1011"
+        },
+        {
+            "category": "Pet Supplies",
+            "subcat": "Pet Care",
+            "url": "https://safarihypermarket.ae/products/?category=1310&parent=1009"
+        },
+        {
+            "category": "Pet Supplies",
+            "subcat": "Pet Food",
+            "url": "https://safarihypermarket.ae/products/?category=1184&parent=1009"
+        },
+        {
+            "category": "Sports & Toys",
+            "subcat": "Sports",
+            "url": "https://safarihypermarket.ae/products/?category=1263&parent=1014"
+        },
+        {
+            "category": "Sports & Toys",
+            "subcat": "Toys",
+            "url": "https://safarihypermarket.ae/products/?category=1243&parent=1014"
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "name":"Carrefour",
+    "urls": [
+        {
+            "category": "Electronics & Appliances",
+            "subcat": "Batteries & Power",
+            "url": "https://www.carrefouruae.com/mafuae/en/Electronics-Appliances/Batteries-Power/c/NF4010000"
+        },
+        {
+            "category": "Electronics & Appliances",
+            "subcat": "Cameras & Camcorders",
+            "url": "https://www.carrefouruae.com/mafuae/en/Electronics-Appliances/Cameras-Camcorders/c/NF4020000"
+        },
+        {
+            "category": "Electronics & Appliances",
+            "subcat": "Gadgets",
+            "url": "https://www.carrefouruae.com/mafuae/en/Electronics-Appliances/Gadgets/c/NF4030000"
+        },
+        {
+            "category": "Electronics & Appliances",
+            "subcat": "Home Cinema & Audio",
+            "url": "https://www.carrefouruae.com/mafuae/en/Electronics-Appliances/Home-Cinema-Audio/c/NF4050000"
+        },
+        {
+            "category": "Electronics & Appliances",
+            "subcat": "Home Phones",
+            "url": "https://www.carrefouruae.com/mafuae/en/Electronics-Appliances/Home-Phones/c/NF4060000"
+        },        
+        {
+            "category": "Electronics & Appliances",
+            "subcat": "Large Appliances",
+            "url": "https://www.carrefouruae.com/mafuae/en/c/NF4100000/"
+        },        
+        {
+            "category": "Electronics & Appliances",
+            "subcat": "Small Appliances",
+            "url": "https://www.carrefouruae.com/mafuae/en/c/NF4040000/"
+        },        
+        {
+            "category": "Electronics & Appliances",
+            "subcat": "TVs & Projectors",
+            "url": "https://www.carrefouruae.com/mafuae/en/TVs%20&%20Projectors/c/NF4080000/"
+        },        
+        {
+            "category": "Electronics & Appliances",
+            "subcat": "Video Games & Consoles",
+            "url": "https://www.carrefouruae.com/mafuae/en/c/NF4090000/"
+        },        
+        {
+            "category": "Smartphones, Tablets & Wearables",
+            "subcat": "Mobile Accessories",
+            "url": "https://www.carrefouruae.com/mafuae/en/Smartphones-Tablets-Wearables/Mobile-Accessories/c/NF1210000"
+        },        
+        {
+            "category": "Smartphones, Tablets & Wearables",
+            "subcat": "Smartpphones & Wearables",
+            "url": "https://www.carrefouruae.com/mafuae/en/Smartphones-Tablets-Wearables/Smartphones-Wearables/c/NF1220000"
+        },        
+        {
+            "category": "Smartphones, Tablets & Wearables",
+            "subcat": "Yablets & E-Readers",
+            "url": "https://www.carrefouruae.com/mafuae/en/Smartphones-Tablets-Wearables/Tablets-E-Readers/c/NF1230000"
+        },        
+        {
+            "category": "Smartphones, Tablets & Wearables",
+            "subcat": "Tablets",
+            "url": "https://www.carrefouruae.com/mafuae/en/Smartphones-Tablets-Wearables/Tablets-E-Readers/Tablets/c/NF1230100"
+        },
+        {
+            "category": "Electronics & Appliances",
+            "subcat": "Laptops & PCs",
+            "url": "https://www.carrefouruae.com/mafuae/en/Laptops,%20PCs/c/NF4070000/"
+        }
+    ]
+}

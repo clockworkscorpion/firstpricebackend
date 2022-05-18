@@ -1,0 +1,698 @@
+{
+    "name":"Union Coop",
+    "urls": [
+        {
+            "category": "Fruits & Vegetables",
+            "subcat": "Leafy Greens",
+            "url": "https://www.unioncoop.ae/supermarket/fruits-and-vegetables/filter/cat/3075.html"
+        },
+        {
+            "category": "Fruits & Vegetables",
+            "subcat": "Fruits",
+            "url": "https://www.unioncoop.ae/supermarket/fruits-and-vegetables/filter/cat/2901.html"
+        },
+        {
+            "category": "Fruits & Vegetables",
+            "subcat": "Vegetables",
+            "url": "https://www.unioncoop.ae/supermarket/fruits-and-vegetables/filter/cat/2902.html"
+        },
+        {
+            "category": "Fruits & Vegetables",
+            "subcat": "Fresh Juice & Salads",
+            "url": "https://www.unioncoop.ae/supermarket/fruits-and-vegetables/filter/cat/2903.html"
+        },
+        {
+            "category": "Fresh Flowers & Nursery",
+            "subcat": "Flower Gifts",
+            "url": "https://www.unioncoop.ae/supermarket/flower-gift.html"
+        },
+        {
+            "category": "Baby Care",
+            "subcat": "Baby Food",
+            "url": "https://www.unioncoop.ae/supermarket/baby-care/filter/cat/2791.html"
+        },
+        {
+            "category": "Baby Care",
+            "subcat": "Baby Hair Care",
+            "url": "https://www.unioncoop.ae/supermarket/baby-care/filter/cat/3042.html"
+        },
+        {
+            "category": "Baby Care",
+            "subcat": "Baby Oral Care",
+            "url": "https://www.unioncoop.ae/supermarket/baby-care/filter/cat/3043.html"
+        },
+        {
+            "category": "Baby Care",
+            "subcat": "Kids' Fragrances",
+            "url": "https://www.unioncoop.ae/supermarket/baby-care/filter/cat/3044.html"
+        },
+        {
+            "category": "Baby Care",
+            "subcat": "Baby Skin Care",
+            "url": "https://www.unioncoop.ae/supermarket/baby-care/filter/cat/3045.html"
+        },
+        {
+            "category": "Baby Care",
+            "subcat": "Baby Diapers",
+            "url": "https://www.unioncoop.ae/supermarket/baby-care/filter/cat/3046.html"
+        },
+        {
+            "category": "Baby Care",
+            "subcat": "Baby Bath & Shower",
+            "url": "https://www.unioncoop.ae/supermarket/baby-care/filter/cat/3048.html"
+        },
+        {
+            "category": "Baby Care",
+            "subcat": "Baby Strollers, Walkers & Car Seats",
+            "url": "https://www.unioncoop.ae/supermarket/baby-care/filter/cat/3049.html"
+        },
+        {
+            "category": "Baby Care",
+            "subcat": "Bottles & Feeding Accessories",
+            "url": "https://www.unioncoop.ae/supermarket/baby-care/filter/cat/3051.html"
+        },
+        {
+            "category": "Baby Care",
+            "subcat": "Baby Essentials",
+            "url": "https://www.unioncoop.ae/supermarket/baby-care/filter/cat/3053.html"
+        },
+        {
+            "category": "Baby Care",
+            "subcat": "Baby Cloth Care",
+            "url": "https://www.unioncoop.ae/supermarket/baby-care/filter/cat/3053.html"
+        },
+        {
+            "category": "Baby Care",
+            "subcat": "Baby Wipes",
+            "url": "https://www.unioncoop.ae/supermarket/baby-care/filter/cat/3293.html"
+        },
+        {
+            "category": "Butchery & Seafood",
+            "subcat": "Fresh",
+            "url": "https://www.unioncoop.ae/supermarket/meat-fish-chicken/filter/cat/3331.html"
+        },
+        {
+            "category": "Butchery & Seafood",
+            "subcat": "Poultry",
+            "url": "https://www.unioncoop.ae/supermarket/meat-fish-chicken/filter/cat/2900.html"
+        },
+        {
+            "category": "Butchery & Seafood",
+            "subcat": "Meat",
+            "url": "https://www.unioncoop.ae/supermarket/meat-fish-chicken/filter/cat/2891.html"
+        },
+        {
+            "category": "Butchery & Seafood",
+            "subcat": "Seafood",
+            "url": "https://www.unioncoop.ae/supermarket/meat-fish-chicken/filter/cat/2892.html"
+        },
+        {
+            "category": "Bread & Bakery",
+            "subcat": "Toast & Bread",
+            "url": "https://www.unioncoop.ae/supermarket/bread-bakery/filter/cat/3322.html"
+        },
+        {
+            "category": "Bread & Bakery",
+            "subcat": "Bakery Sweets",
+            "url": "https://www.unioncoop.ae/supermarket/bread-bakery/filter/cat/3324.html"
+        },
+        {
+            "category": "Bread & Bakery",
+            "subcat": "Doughnuts & Muffins",
+            "url": "https://www.unioncoop.ae/supermarket/bread-bakery/filter/cat/3325.html"
+        },
+        {
+            "category": "Bread & Bakery",
+            "subcat": "Cakes & Pastries",
+            "url": "https://www.unioncoop.ae/supermarket/bread-bakery/filter/cat/3326.html"
+        },
+        {
+            "category": "Bread & Bakery",
+            "subcat": "Cookies & Biscuits",
+            "url": "https://www.unioncoop.ae/supermarket/bread-bakery/filter/cat/3327.html"
+        },
+        {
+            "category": "Bread & Bakery",
+            "subcat": "Croissants",
+            "url": "https://www.unioncoop.ae/supermarket/bread-bakery/filter/cat/3329.html"
+        },
+        {
+            "category": "Breakfast, Cereals & Pasta",
+            "subcat": "Breakfast Cereals",
+            "url": "https://www.unioncoop.ae/supermarket/breakfast-cereal-pasta/filter/cat/2932.html"
+        },
+        {
+            "category": "Breakfast, Cereals & Pasta",
+            "subcat": "Pasta",
+            "url": "https://www.unioncoop.ae/supermarket/breakfast-cereal-pasta/filter/cat/2928.html"
+        },
+        {
+            "category": "Breakfast, Cereals & Pasta",
+            "subcat": "Noodles",
+            "url": "https://www.unioncoop.ae/supermarket/breakfast-cereal-pasta/filter/cat/2929.html"
+        },
+        {
+            "category": "Breakfast, Cereals & Pasta",
+            "subcat": "Soups",
+            "url": "https://www.unioncoop.ae/supermarket/breakfast-cereal-pasta/filter/cat/2930.html"
+        },
+        {
+            "category": "Breakfast, Cereals & Pasta",
+            "subcat": "Flakes",
+            "url": "https://www.unioncoop.ae/supermarket/breakfast-cereal-pasta/filter/cat/2931.html"
+        },
+        {
+            "category": "Breakfast, Cereals & Pasta",
+            "subcat": "Oats",
+            "url": "https://www.unioncoop.ae/supermarket/breakfast-cereal-pasta/filter/cat/2933.html"
+        },
+        {
+            "category": "Canned, Jarred & Packaged",
+            "subcat": "Food Spreads",
+            "url": "https://www.unioncoop.ae/supermarket/cans-jars/filter/cat/2943.html"
+        },
+        {
+            "category": "Canned, Jarred & Packaged",
+            "subcat": "Canned Poultry",
+            "url": "https://www.unioncoop.ae/supermarket/cans-jars/filter/cat/2922.html"
+        },
+        {
+            "category": "Canned, Jarred & Packaged",
+            "subcat": "Canned Meat",
+            "url": "https://www.unioncoop.ae/supermarket/cans-jars/filter/cat/2923.html"
+        },
+        {
+            "category": "Canned, Jarred & Packaged",
+            "subcat": "Canned Seafood",
+            "url": "https://www.unioncoop.ae/supermarket/cans-jars/filter/cat/2924.html"
+        },
+        {
+            "category": "Canned, Jarred & Packaged",
+            "subcat": "Canned Fruits",
+            "url": "https://www.unioncoop.ae/supermarket/cans-jars/filter/cat/2925.html"
+        },
+        {
+            "category": "Canned, Jarred & Packaged",
+            "subcat": "Canned Vegetables",
+            "url": "https://www.unioncoop.ae/supermarket/cans-jars/filter/cat/2926.html"
+        },
+        {
+            "category": "Canned, Jarred & Packaged",
+            "subcat": "Honey, Syrup & Sweetener",
+            "url": "https://www.unioncoop.ae/supermarket/cans-jars/filter/cat/2944.html"
+        },
+        {
+            "category": "Canned, Jarred & Packaged",
+            "subcat": "Pickles & Olives",
+            "url": "https://www.unioncoop.ae/supermarket/cans-jars/filter/cat/3169.html"
+        },
+        {
+            "category": "Canned, Jarred & Packaged",
+            "subcat": "Vinegar",
+            "url": "https://www.unioncoop.ae/supermarket/cans-jars/filter/cat/3171.html"
+        },
+        {
+            "category": "Chocolates & Snacks",
+            "subcat": "Chocolates & Confectionery",
+            "url": "https://www.unioncoop.ae/supermarket/chocolate-snacks/filter/cat/2956.html"
+        },
+        {
+            "category": "Chocolates & Snacks",
+            "subcat": "Seeds, Dried Fruits & Nuts",
+            "url": "https://www.unioncoop.ae/supermarket/chocolate-snacks/filter/cat/2792.html"
+        },
+        {
+            "category": "Chocolates & Snacks",
+            "subcat": "Chips, Namkeen & Snacks",
+            "url": "https://www.unioncoop.ae/supermarket/chocolate-snacks/filter/cat/2919.html"
+        },        
+        {
+            "category": "Chocolates & Snacks",
+            "subcat": "Biscuits & Cookies",
+            "url": "https://www.unioncoop.ae/supermarket/chocolate-snacks/filter/cat/2954.html"
+        },
+        {
+            "category": "Chocolates & Snacks",
+            "subcat": "Popcorn",
+            "url": "https://www.unioncoop.ae/supermarket/chocolate-snacks/filter/cat/2955.html"
+        },
+        {
+            "category": "Cleaning & Homecare",
+            "subcat": "Disposables",
+            "url": "https://www.unioncoop.ae/supermarket/cleaning-homecare/filter/cat/3018.html"
+        },
+        {
+            "category": "Cleaning & Homecare",
+            "subcat": "Laundry Care",
+            "url": "https://www.unioncoop.ae/supermarket/cleaning-homecare/filter/cat/3023.html"
+        },
+        {
+            "category": "Cleaning & Homecare",
+            "subcat": "Toilet & Bathroom",
+            "url": "https://www.unioncoop.ae/supermarket/cleaning-homecare/filter/cat/3057.html"
+        },
+        {
+            "category": "Cleaning & Homecare",
+            "subcat": "Kitchen, Glass & Drain",
+            "url": "https://www.unioncoop.ae/supermarket/cleaning-homecare/filter/cat/3058.html"
+        },        
+        {
+            "category": "Cleaning & Homecare",
+            "subcat": "Floor & Other Cleaners",
+            "url": "https://www.unioncoop.ae/supermarket/cleaning-homecare/filter/cat/3059.html"
+        },
+        {
+            "category": "Cleaning & Homecare",
+            "subcat": "Pest Control",
+            "url": "https://www.unioncoop.ae/supermarket/cleaning-homecare/filter/cat/3060.html"
+        },
+        {
+            "category": "Cleaning & Homecare",
+            "subcat": "Carpet & Furniture Care",
+            "url": "https://www.unioncoop.ae/supermarket/cleaning-homecare/filter/cat/3061.html"
+        },
+        {
+            "category": "Cleaning & Homecare",
+            "subcat": "Air Fresheners & Candles",
+            "url": "https://www.unioncoop.ae/supermarket/cleaning-homecare/filter/cat/3062.html"
+        },
+        {
+            "category": "Cleaning & Homecare",
+            "subcat": "Antiseptics & Disinfectants",
+            "url": "https://www.unioncoop.ae/supermarket/cleaning-homecare/filter/cat/3675.html"
+        },
+        {
+            "category": "Coffee & Tea",
+            "subcat": "Coffee",
+            "url": "https://www.unioncoop.ae/supermarket/coffee-tea/filter/cat/2940.html"
+        },        
+        {
+            "category": "Coffee & Tea",
+            "subcat": "Tea",
+            "url": "https://www.unioncoop.ae/supermarket/coffee-tea/filter/cat/2941.html"
+        },
+        {
+            "category": "Cooking & Baking",
+            "subcat": "Cooking Ingredients",
+            "url": "https://www.unioncoop.ae/supermarket/flours-and-baking/filter/cat/2927.html"
+        },
+        {
+            "category": "Cooking & Baking",
+            "subcat": "Breadcrumbs",
+            "url": "https://www.unioncoop.ae/supermarket/flours-and-baking/filter/cat/2921.html"
+        },
+        {
+            "category": "Cooking & Baking",
+            "subcat": "Baking & Dessert Mixes",
+            "url": "https://www.unioncoop.ae/supermarket/flours-and-baking/filter/cat/2946.html"
+        },
+        {
+            "category": "Condiments & Seasonings",
+            "subcat": "Ketchups, Sauces & Dressings",
+            "url": "https://www.unioncoop.ae/supermarket/condiments-seasonings/filter/cat/2945.html"
+        },
+        {
+            "category": "Condiments & Seasonings",
+            "subcat": "Herbs & Spices",
+            "url": "https://www.unioncoop.ae/supermarket/condiments-seasonings/filter/cat/2918.html"
+        },
+        {
+            "category": "Condiments & Seasonings",
+            "subcat": "Pickles",
+            "url": "https://www.unioncoop.ae/supermarket/condiments-seasonings/filter/cat/3064.html"
+        },
+        {
+            "category": "Dairy, Eggs & Cheese",
+            "subcat": "Cheese & Labneh",
+            "url": "https://www.unioncoop.ae/supermarket/dairy-eggs/filter/cat/2965.html"
+        },
+        {
+            "category": "Dairy, Eggs & Cheese",
+            "subcat": "Dairy",
+            "url": "https://www.unioncoop.ae/supermarket/dairy-eggs/filter/cat/2786.html"
+        },        {
+            "category": "Dairy, Eggs & Cheese",
+            "subcat": "Eggs",
+            "url": "https://www.unioncoop.ae/supermarket/dairy-eggs/filter/cat/2787.html"
+        },
+        {
+            "category": "Dairy, Eggs & Cheese",
+            "subcat": "Laban",
+            "url": "https://www.unioncoop.ae/supermarket/dairy-eggs/filter/cat/2966.html"
+        },
+        {
+            "category": "Dairy, Eggs & Cheese",
+            "subcat": "Yoghurt, Dessert & Cream",
+            "url": "https://www.unioncoop.ae/supermarket/dairy-eggs/filter/cat/2790.html"
+        },
+        {
+            "category": "Dairy, Eggs & Cheese",
+            "subcat": "Milk",
+            "url": "https://www.unioncoop.ae/supermarket/dairy-eggs/filter/cat/2913.html"
+        },        
+        {
+            "category": "Frozen & Chilled Food",
+            "subcat": "Chilled",
+            "url": "https://www.unioncoop.ae/supermarket/frozen-foods/filter/cat/2904.html"
+        },
+        {
+            "category": "Frozen & Chilled Food",
+            "subcat": "Frozen",
+            "url": "https://www.unioncoop.ae/supermarket/frozen-foods/filter/cat/2905.html"
+        },
+        {
+            "category": "Frozen & Chilled Food",
+            "subcat": "Ice Cream",
+            "url": "https://www.unioncoop.ae/supermarket/frozen-foods/filter/cat/3140.html"
+        },
+        {
+            "category": "Grains, Rice & Oil",
+            "subcat": "Rice",
+            "url": "https://www.unioncoop.ae/supermarket/rice-oil/filter/cat/2915.html"
+        },        
+        {
+            "category": "Grains, Rice & Oil",
+            "subcat": "Other Grains",
+            "url": "https://www.unioncoop.ae/supermarket/rice-oil/filter/cat/2916.html"
+        },
+        {
+            "category": "Grains, Rice & Oil",
+            "subcat": "Pulses",
+            "url": "https://www.unioncoop.ae/supermarket/rice-oil/filter/cat/2917.html"
+        },
+        {
+            "category": "Grains, Rice & Oil",
+            "subcat": "Wheat",
+            "url": "https://www.unioncoop.ae/supermarket/rice-oil/filter/cat/2936.html"
+        },
+        {
+            "category": "Grains, Rice & Oil",
+            "subcat": "Edible Oils & Ghee",
+            "url": "https://www.unioncoop.ae/supermarket/rice-oil/filter/cat/2949.html"
+        },        
+        {
+            "category": "Grains, Rice & Oil",
+            "subcat": "Oil & Ghee",
+            "url": "https://www.unioncoop.ae/supermarket/rice-oil/filter/cat/3115.html"
+        },
+        {
+            "category": "Pet Care",
+            "subcat": "Pet Food",
+            "url": "https://www.unioncoop.ae/pet-care/filter/cat/3056.html"
+        },
+        {
+            "category": "Pet Care",
+            "subcat": "Pet Accessories",
+            "url": "https://www.unioncoop.ae/pet-care/filter/cat/3055.html"
+        },
+        {
+            "category": "Pet Care",
+            "subcat": "Pet Health Supplies",
+            "url": "https://www.unioncoop.ae/pet-care/filter/cat/3629.html"
+        },        
+        {
+            "category": "Union Products",
+            "subcat": "Union Products",
+            "url": "https://www.unioncoop.ae/supermarket/union-products.html"
+        },
+        {
+            "category": "Water, Juices & Soft Drinks",
+            "subcat": "Mineral Water",
+            "url": "https://www.unioncoop.ae/supermarket/beverages/filter/cat/2906.html"
+        },
+        {
+            "category": "Water, Juices & Soft Drinks",
+            "subcat": "Flavoured Water",
+            "url": "https://www.unioncoop.ae/supermarket/beverages/filter/cat/2907.html"
+        },
+        {
+            "category": "Water, Juices & Soft Drinks",
+            "subcat": "Soft Drinks",
+            "url": "https://www.unioncoop.ae/supermarket/beverages/filter/cat/2908.html"
+        },        
+        {
+            "category": "Water, Juices & Soft Drinks",
+            "subcat": "Juices",
+            "url": "https://www.unioncoop.ae/supermarket/beverages/filter/cat/2909.html"
+        },
+        {
+            "category": "Water, Juices & Soft Drinks",
+            "subcat": "Energy Drink",
+            "url": "https://www.unioncoop.ae/supermarket/beverages/filter/cat/2910.html"
+        },
+        {
+            "category": "Water, Juices & Soft Drinks",
+            "subcat": "Syrups & Squash",
+            "url": "https://www.unioncoop.ae/supermarket/beverages/filter/cat/2911.html"
+        },
+        {
+            "category": "Water, Juices & Soft Drinks",
+            "subcat": "Malt Beverages",
+            "url": "https://www.unioncoop.ae/supermarket/beverages/filter/cat/2912.html"
+        },        
+        {
+            "category": "Water, Juices & Soft Drinks",
+            "subcat": "Milk Substitutes",
+            "url": "https://www.unioncoop.ae/supermarket/beverages/filter/cat/2914.html"
+        },
+        {
+            "category": "Water, Juices & Soft Drinks",
+            "subcat": "Powdered Drinks",
+            "url": "https://www.unioncoop.ae/supermarket/beverages/filter/cat/2942.html"
+        },
+        {
+            "category": "Organic Food",
+            "subcat": "Organic Food",
+            "url": "https://www.unioncoop.ae/supermarket/organic-food.html"
+        },        
+        {
+            "category": "Pharmaceuticals",
+            "subcat": "Medical Supplies",
+            "url": "https://www.unioncoop.ae/health-beauty/pharmaceuticals/filter/cat/3026.html"
+        },        
+        {
+            "category": "Pharmaceuticals",
+            "subcat": "Dental Care",
+            "url": "https://www.unioncoop.ae/health-beauty/pharmaceuticals/filter/cat/3027.html"
+        },
+        {
+            "category": "Pharmaceuticals",
+            "subcat": "Foot Care",
+            "url": "https://www.unioncoop.ae/health-beauty/pharmaceuticals/filter/cat/3028.html"
+        },
+        {
+            "category": "Pharmaceuticals",
+            "subcat": "Balm, Gel & Oil",
+            "url": "https://www.unioncoop.ae/health-beauty/pharmaceuticals/filter/cat/3029.html"
+        },
+        {
+            "category": "Pharmaceuticals",
+            "subcat": "Mask",
+            "url": "https://www.unioncoop.ae/health-beauty/pharmaceuticals/filter/cat/3031.html"
+        },        
+        {
+            "category": "Pharmaceuticals",
+            "subcat": "Home Health Care",
+            "url": "https://www.unioncoop.ae/health-beauty/pharmaceuticals/filter/cat/3319.html"
+        },
+        {
+            "category": "Wellness",
+            "subcat": "Massage & Relaxation",
+            "url": "https://www.unioncoop.ae/health-beauty/filter/cat/3628.html"
+        },
+        {
+            "category": "Grooming & Personal Care",
+            "subcat": "Oral Care",
+            "url": "https://www.unioncoop.ae/health-beauty/grooming-personal-care/filter/cat/3034.html"
+        },
+        {
+            "category": "Grooming & Personal Care",
+            "subcat": "Face",
+            "url": "https://www.unioncoop.ae/health-beauty/grooming-personal-care/filter/cat/3312.html"
+        },        
+        {
+            "category": "Grooming & Personal Care",
+            "subcat": "Women's Grooming & Hygiene",
+            "url": "https://www.unioncoop.ae/health-beauty/grooming-personal-care/filter/cat/3317.html"
+        },
+        {
+            "category": "Grooming & Personal Care",
+            "subcat": "Men's Care",
+            "url": "https://www.unioncoop.ae/health-beauty/grooming-personal-care/filter/cat/3035.html"
+        },
+        {
+            "category": "Grooming & Personal Care",
+            "subcat": "Bath & Body Care",
+            "url": "https://www.unioncoop.ae/health-beauty/grooming-personal-care/filter/cat/3033.html"
+        },
+        {
+            "category": "Grooming & Personal Care",
+            "subcat": "Hair Care",
+            "url": "https://www.unioncoop.ae/health-beauty/grooming-personal-care/filter/cat/3037.html"
+        },        
+        {
+            "category": "Grooming & Personal Care",
+            "subcat": "Shaving Care",
+            "url": "https://www.unioncoop.ae/health-beauty/grooming-personal-care/filter/cat/3036.html"
+        },
+        {
+            "category": "Grooming & Personal Care",
+            "subcat": "Deodorant & Fragrance",
+            "url": "https://www.unioncoop.ae/health-beauty/grooming-personal-care/filter/cat/3038.html"
+        },
+        {
+            "category": "Grooming & Personal Care",
+            "subcat": "Skin Care",
+            "url": "https://www.unioncoop.ae/health-beauty/grooming-personal-care/filter/cat/3039.html"
+        },
+        {
+            "category": "Grooming & Personal Care",
+            "subcat": "Hygiene & HealthCare",
+            "url": "https://www.unioncoop.ae/health-beauty/grooming-personal-care/filter/cat/3040.html"
+        },        
+        {
+            "category": "Grooming & Personal Care",
+            "subcat": "Cosmetics",
+            "url": "https://www.unioncoop.ae/health-beauty/grooming-personal-care/filter/cat/3041.html"
+        },
+        {
+            "category": "Grooming & Personal Care",
+            "subcat": "Foot, Hand & Nail Care",
+            "url": "https://www.unioncoop.ae/health-beauty/grooming-personal-care/filter/cat/3296.html"
+        },
+        {
+            "category": "Grooming & Personal Care",
+            "subcat": "Tools & Brushes",
+            "url": "https://www.unioncoop.ae/health-beauty/grooming-personal-care/filter/cat/3297.html"
+        },
+        {
+            "category": "Grooming & Personal Care",
+            "subcat": "Eye Care",
+            "url": "https://www.unioncoop.ae/health-beauty/grooming-personal-care/filter/cat/3311.html"
+        },        
+        {
+            "category": "Health & Nutrition",
+            "subcat": "Supplements & Nutrition",
+            "url": "https://www.unioncoop.ae/health-beauty/supplements-nutrition.html"
+        },
+        {
+            "category": "Home, Patio & Kitchen",
+            "subcat": "Kitchen & Dining",
+            "url": "https://www.unioncoop.ae/home-kitchen/filter/cat/2977.html"
+        },
+        {
+            "category": "Home, Patio & Kitchen",
+            "subcat": "Furniture & Storage",
+            "url": "https://www.unioncoop.ae/home-kitchen/filter/cat/2969.html"
+        },
+        {
+            "category": "Home, Patio & Kitchen",
+            "subcat": "Bath",
+            "url": "https://www.unioncoop.ae/home-kitchen/filter/cat/2980.html"
+        },        
+        {
+            "category": "Home, Patio & Kitchen",
+            "subcat": "Home Decor",
+            "url": "https://www.unioncoop.ae/home-kitchen/filter/cat/2982.html"
+        },
+        {
+            "category": "Home, Patio & Kitchen",
+            "subcat": "Homecare Products",
+            "url": "https://www.unioncoop.ae/home-kitchen/filter/cat/2983.html"
+        },
+        {
+            "category": "Home, Patio & Kitchen",
+            "subcat": "Gardening & Lawncare",
+            "url": "https://www.unioncoop.ae/home-kitchen/filter/cat/2994.html"
+        },
+        {
+            "category": "Home, Patio & Kitchen",
+            "subcat": "Housewares",
+            "url": "https://www.unioncoop.ae/home-kitchen/filter/cat/2996.html"
+        },        
+        {
+            "category": "Electronics",
+            "subcat": "Phones",
+            "url": "https://www.unioncoop.ae/electronics/filter/cat/12.html"
+        },
+        {
+            "category": "Electronics",
+            "subcat": "Computers & Games",
+            "url": "https://www.unioncoop.ae/electronics/filter/cat/3.html"
+        },
+        {
+            "category": "Electronics",
+            "subcat": "Photo/Videography",
+            "url": "https://www.unioncoop.ae/electronics/filter/cat/16.html"
+        },
+        {
+            "category": "Electronics",
+            "subcat": "Home Entertainment",
+            "url": "https://www.unioncoop.ae/electronics/filter/cat/21.html"
+        },        
+        {
+            "category": "Electronics",
+            "subcat": "Home Appliances",
+            "url": "https://www.unioncoop.ae/electronics/filter/cat/26.html"
+        },
+        {
+            "category": "Electronics",
+            "subcat": "Personal Care",
+            "url": "https://www.unioncoop.ae/electronics/filter/cat/32.html"
+        },
+        {
+            "category": "Fashion",
+            "subcat": "Perfumes & Fragrances",
+            "url": "https://www.unioncoop.ae/fashion/filter/cat/78.html"
+        },
+        {
+            "category": "Fashion",
+            "subcat": "Watches",
+            "url": "https://www.unioncoop.ae/fashion/filter/cat/2751.html"
+        },        {
+            "category": "Fashion",
+            "subcat": "For Men",
+            "url": "https://www.unioncoop.ae/fashion/filter/cat/2808.html"
+        },
+        {
+            "category": "Fashion",
+            "subcat": "For Women",
+            "url": "https://www.unioncoop.ae/fashion/filter/cat/2859.html"
+        },
+        {
+            "category": "Automobiles",
+            "subcat": "Car Accessories",
+            "url": "https://www.unioncoop.ae/supermarket/automotive-5/filter/cat/2779.html"
+        },
+        {
+            "category": "Automobiles",
+            "subcat": "Auto Exterior Accessories",
+            "url": "https://www.unioncoop.ae/supermarket/automotive-5/filter/cat/3012.html"
+        },        
+        {
+            "category": "Automobiles",
+            "subcat": "Auto Interior Accessories",
+            "url": "https://www.unioncoop.ae/supermarket/automotive-5/filter/cat/3013.html"
+        },
+        {
+            "category": "Automobiles",
+            "subcat": "Auto Tools & Equipment",
+            "url": "https://www.unioncoop.ae/supermarket/automotive-5/filter/cat/3014.html"
+        },
+        {
+            "category": "Sports & Fitness",
+            "subcat": "Football",
+            "url": "https://www.unioncoop.ae/sports-and-fitness/filter/cat/3258.html"
+        },
+        {
+            "category": "Sports & Fitness",
+            "subcat": "Cricket",
+            "url": "https://www.unioncoop.ae/sports-and-fitness/filter/cat/3260.html"
+        },        
+        {
+            "category": "Travel",
+            "subcat": "Luggage & Trolley Bags",
+            "url": "https://www.unioncoop.ae/supermarket/luggage-trolley-bags.html"
+        }
+    ]
+}

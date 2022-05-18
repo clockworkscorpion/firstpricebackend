@@ -1,0 +1,404 @@
+{
+    "name":"Lulu Hypermarket",
+    "urls": [
+        {
+            "category": "Food Cupboard",
+            "subcat": "Breakfast & Spreads",
+            "url": "https://www.luluhypermarket.com/en-ae/grocery-fresh-food-grocery-food-cupboard-breakfast-spreads/c/HY00214912"
+        },
+        {
+            "category": "Food Cupboard",
+            "subcat": "Cold Beverages",
+            "url": "https://www.luluhypermarket.com/en-ae/grocery-fresh-food-grocery-food-cupboard-cold-beverages/c/HY00214902"
+        },
+        {
+            "category": "Food Cupboard",
+            "subcat": "Hot Beverages",
+            "url": "https://www.luluhypermarket.com/en-ae/grocery-fresh-food-grocery-food-cupboard-hot-beverages/c/HY94000100"
+        },
+        {
+            "category": "Food Cupboard",
+            "subcat": "World Foods",
+            "url": "https://www.luluhypermarket.com/en-ae/grocery-fresh-food-grocery-food-cupboard-world-foods/c/HY00214976"
+        },
+        {
+            "category": "Food Cupboard",
+            "subcat": "Frozen Food",
+            "url": "https://www.luluhypermarket.com/en-ae/grocery-fresh-food-grocery-food-cupboard-frozen-food/c/HY00215064"
+        },
+        {
+            "category": "Food Cupboard",
+            "subcat": "Canned Foods",
+            "url": "https://www.luluhypermarket.com/en-ae/grocery-fresh-food-grocery-food-cupboard-canned-foods/c/HY00214920"
+        },
+        {
+            "category": "Food Cupboard",
+            "subcat": "Home Baking & Sweeteners",
+            "url": "https://www.luluhypermarket.com/en-ae/grocery-fresh-food-grocery-food-cupboard-home-baking-sweeteners/c/HY00214950"
+        },
+        {
+            "category": "Food Cupboard",
+            "subcat": "Dressings & Table Sauces",
+            "url": "https://www.luluhypermarket.com/en-ae/grocery-fresh-food-grocery-food-cupboard-dressings-table-sauces/c/HY00214940"
+        },
+        {
+            "category": "Food Cupboard",
+            "subcat": "Cooking Ingredients",
+            "url": "https://www.luluhypermarket.com/en-ae/grocery-fresh-food-grocery-food-cupboard-cooking-ingredients/c/HY00214932"
+        },
+        {
+            "category": "Food Cupboard",
+            "subcat": "Rice, Pasta & Noodles",
+            "url": "https://www.luluhypermarket.com/en-ae/grocery-fresh-food-grocery-food-cupboard-rice-pasta-noodles/c/HY00214956"
+        },
+        {
+            "category": "Food Cupboard",
+            "subcat": "Biscuits & Confectionery",
+            "url": "https://www.luluhypermarket.com/en-ae/grocery-fresh-food-grocery-food-cupboard-biscuits-confectionery/c/HY00214970"
+        },
+        {
+            "category": "Food Cupboard",
+            "subcat": "Chips & Snacks",
+            "url": "https://www.luluhypermarket.com/en-ae/grocery-fresh-food-grocery-food-cupboard-chips-snacks/c/HY00214962"
+        },
+        {
+            "category": "Food Cupboard",
+            "subcat": "Specialty Foods",
+            "url": "https://www.luluhypermarket.com/en-ae/grocery-fresh-food-grocery-food-cupboard-speciality-food/c/HY00215240"
+        },
+        {
+            "category": "Baby & Kids",
+            "subcat": "Baby Care",
+            "url": "https://www.luluhypermarket.com/en-ae/grocery-fresh-food-grocery-baby-kids-baby-care/c/HY00214990"
+        },
+        {
+            "category": "Baby & Kids",
+            "subcat": "Food & Drink",
+            "url": "https://www.luluhypermarket.com/en-ae/grocery-fresh-food-grocery-baby-kids-food-drinks/c/HY00214896"
+        },
+        {
+            "category": "Health & Beauty",
+            "subcat": "Bath, Shower & Soap",
+            "url": "https://www.luluhypermarket.com/en-ae/grocery-fresh-food-grocery-health-beauty-bath-shower-soap/c/HY00214999"
+        },
+        {
+            "category": "Health & Beauty",
+            "subcat": "Facial & Skin Care",
+            "url": "https://www.luluhypermarket.com/en-ae/grocery-fresh-food-grocery-health-beauty-facial-skin-care/c/HY00215016"
+        },
+        {
+            "category": "Health & Beauty",
+            "subcat": "Dental & Healthcare",
+            "url": "https://www.luluhypermarket.com/en-ae/grocery-fresh-food-grocery-health-beauty-dental-health-care/c/HY00215002"
+        },
+        {
+            "category": "Health & Beauty",
+            "subcat": "Mens' Toiletries",
+            "url": "https://www.luluhypermarket.com/en-ae/grocery-fresh-food-grocery-health-beauty-mens-toiletries/c/HY00215026"
+        },
+        {
+            "category": "Health & Beauty",
+            "subcat": "Hair Care",
+            "url": "https://www.luluhypermarket.com/en-ae/grocery-fresh-food-grocery-health-beauty-hair-care/c/HY00215008"
+        },
+        {
+            "category": "Health & Beauty",
+            "subcat": "Make Up",
+            "url": "https://www.luluhypermarket.com/en-ae/grocery-fresh-food-grocery-health-beauty-make-up/c/HY00217431"
+        },        
+        {
+            "category": "Health & Beauty",
+            "subcat": "Premium Perfumes",
+            "url": "https://www.luluhypermarket.com/en-ae/grocery-fresh-food-grocery-health-beauty-premium-perfumes/c/HY00217012"
+        },
+        {
+            "category": "Health & Beauty",
+            "subcat": "Feminine Care",
+            "url": "https://www.luluhypermarket.com/en-ae/grocery-fresh-food-grocery-health-beauty-feminine-care/c/HY00215046"
+        },
+        {
+            "category": "Household",
+            "subcat": "Cleaning",
+            "url": "https://www.luluhypermarket.com/en-ae/grocery-fresh-food-grocery-household-cleaning/c/HY00215078"
+        },
+        {
+            "category": "Household",
+            "subcat": "Air Fresheners",
+            "url": "https://www.luluhypermarket.com/en-ae/grocery-fresh-food-grocery-household-air-fresheners/c/HY00215124"
+        },
+        {
+            "category": "Household",
+            "subcat": "Dishwashing",
+            "url": "https://www.luluhypermarket.com/en-ae/grocery-fresh-food-grocery-household-dishwashing/c/HY00216869"
+        },
+        {
+            "category": "Household",
+            "subcat": "Food Storage",
+            "url": "https://www.luluhypermarket.com/en-ae/grocery-fresh-food-grocery-household-food-storage/c/HY00215142"
+        },
+        {
+            "category": "Household",
+            "subcat": "Paper Goods",
+            "url": "https://www.luluhypermarket.com/en-ae/grocery-fresh-food-grocery-household-paper-goods/c/HY00215156"
+        },
+        {
+            "category": "Household",
+            "subcat": "Electrical Accessories",
+            "url": "https://www.luluhypermarket.com/en-ae/grocery-fresh-food-grocery-household-electrical-accessories/c/HY00217083"
+        },
+        {
+            "category": "Household",
+            "subcat": "Laundry",
+            "url": "https://www.luluhypermarket.com/en-ae/grocery-fresh-food-grocery-household-laundry/c/HY00215092"
+        },
+        {
+            "category": "Household",
+            "subcat": "Home Essentials",
+            "url": "https://www.luluhypermarket.com/en-ae/grocery-fresh-food-grocery-household-home-essentials/c/HY00215110"
+        },
+        {
+            "category": "Household",
+            "subcat": "Pets",
+            "url": "https://www.luluhypermarket.com/en-ae/grocery-fresh-food-grocery-household-pets/c/HY00215252"
+        },
+        {
+            "category": "Household",
+            "subcat": "Eco Friendly",
+            "url": "https://www.luluhypermarket.com/en-ae/grocery-fresh-food-grocery-household-eco-friendly/c/HY00215077"
+        },        {
+            "category": "Fresh Food",
+            "subcat": "Dairy, Eggs & Cheese",
+            "url": "https://www.luluhypermarket.com/en-ae/grocery-fresh-food-fresh-food-dairy-eggs-cheese/c/HY00216087"
+        },
+        {
+            "category": "Fresh Food",
+            "subcat": "Bakery",
+            "url": "https://www.luluhypermarket.com/en-ae/grocery-fresh-food-fresh-food-bakery/c/HY00216088"
+        },
+        {
+            "category": "Fresh Food",
+            "subcat": "Fresh Juice & Salads",
+            "url": "https://www.luluhypermarket.com/en-ae/grocery-fresh-food-fresh-food-fresh-juice-salads/c/HY00216142"
+        },
+        {
+            "category": "Fresh Food",
+            "subcat": "Fruits & Vegetables",
+            "url": "https://www.luluhypermarket.com/en-ae/grocery-fresh-food-fresh-food-fruits-vegetables/c/HY00216090"
+        },
+        {
+            "category": "Fresh Food",
+            "subcat": "Meat & Fish",
+            "url": "https://www.luluhypermarket.com/en-ae/grocery-fresh-food-fresh-food-fresh-meat-fish/c/HY00216146"
+        },
+        {
+            "category": "Fresh Food",
+            "subcat": "Fresh Chicken & Poultry",
+            "url": "https://www.luluhypermarket.com/en-ae/grocery-fresh-food-fresh-food-fresh-chicken-poultry/c/HY00216089"
+        },
+        {
+            "category": "Fresh Food",
+            "subcat": "Delicatessen",
+            "url": "https://www.luluhypermarket.com/en-ae/grocery-fresh-food-fresh-food-delicatessen/c/HY00216151"
+        },
+        {
+            "category": "Fresh Food",
+            "subcat": "Ready Meals",
+            "url": "https://www.luluhypermarket.com/en-ae/grocery-fresh-food-fresh-food-ready-meals/c/HY00216155"
+        },
+        {
+            "category": "Electronics",
+            "subcat": "TV",
+            "url": "https://www.luluhypermarket.com/en-ae/department-store-electronics-tv/c/HY00214796"
+        },
+        {
+            "category": "Electronics",
+            "subcat": "Camera Store",
+            "url": "https://www.luluhypermarket.com/en-ae/department-store-electronics-camera-store/c/HY00214812"
+        },
+        {
+            "category": "Electronics",
+            "subcat": "Audio",
+            "url": "https://www.luluhypermarket.com/en-ae/department-store-electronics-audio/c/HY00214804"
+        },
+        {
+            "category": "Electronics",
+            "subcat": "Computer Devices",
+            "url": "https://www.luluhypermarket.com/en-ae/department-store-electronics-computer-devices/c/HY00214754"
+        },
+        {
+            "category": "Electronics",
+            "subcat": "PC Accessories",
+            "url": "https://www.luluhypermarket.com/en-ae/department-store-electronics-pc-accessories/c/HY00215333"
+        },
+        {
+            "category": "Electronics",
+            "subcat": "Healthy Lifestyles",
+            "url": "https://www.luluhypermarket.com/en-ae/department-store-electronics-healthy-lifestyles/c/HY00215111"
+        },
+        {
+            "category": "Mobiles",
+            "subcat": "Mobiles & Tablets",
+            "url": "https://www.luluhypermarket.com/en-ae/department-store-mobiles-mobiles-tablets/c/HY00214728"
+        },
+        {
+            "category": "Mobiles",
+            "subcat": "Wearables",
+            "url": "https://www.luluhypermarket.com/en-ae/department-store-mobiles-wearable/c/HY00214740"
+        },
+        {
+            "category": "Mobiles",
+            "subcat": "Gaming",
+            "url": "https://www.luluhypermarket.com/en-ae/department-store-mobiles-gaming/c/HY00214762"
+        },
+        {
+            "category": "Fashion & Lifestyle",
+            "subcat": "Women's Tops",
+            "url": "https://www.luluhypermarket.com/en-ae/lifestyle-women-tops/c/HY00217014"
+        },
+        {
+            "category": "Fashion & Lifestyle",
+            "subcat": "Women's Bottoms",
+            "url": "https://www.luluhypermarket.com/en-ae/lifestyle-women-bottoms/c/HY00217015"
+        },
+        {
+            "category": "Fashion & Lifestyle",
+            "subcat": "Women's Footwear",
+            "url": "https://www.luluhypermarket.com/en-ae/lifestyle-women-foot-wear/c/HY00217019"
+        },
+        {
+            "category": "Fashion & Lifestyle",
+            "subcat": "Women's Ethnic Wear",
+            "url": "https://www.luluhypermarket.com/en-ae/lifestyle-women-ethnic-wear/c/HY00217321"
+        },
+        {
+            "category": "Fashion & Lifestyle",
+            "subcat": "Women's Night Wear",
+            "url": "https://www.luluhypermarket.com/en-ae/lifestyle-women-night-wear/c/HY00217016"
+        },
+        {
+            "category": "Fashion & Lifestyle",
+            "subcat": "Lingerie",
+            "url": "https://www.luluhypermarket.com/en-ae/lifestyle-women-lingerie/c/HY00217017"
+        },
+        {
+            "category": "Fashion & Lifestyle",
+            "subcat": "Handbags & Purses",
+            "url": "https://www.luluhypermarket.com/en-ae/lifestyle-women-bags-wallets/c/HY00217018"
+        },        
+        {
+            "category": "Fashion & Lifestyle",
+            "subcat": "Women's Accessories",
+            "url": "https://www.luluhypermarket.com/en-ae/lifestyle-women-accessories/c/HY00217020"
+        },
+        {
+            "category": "Fashion & Lifestyle",
+            "subcat": "Men's Tops",
+            "url": "https://www.luluhypermarket.com/en-ae/lifestyle-men-tops/c/HY00217006"
+        },
+        {
+            "category": "Fashion & Lifestyle",
+            "subcat": "Men's Bottoms",
+            "url": "https://www.luluhypermarket.com/en-ae/lifestyle-men-bottoms/c/HY00217007"
+        },
+        {
+            "category": "Fashion & Lifestyle",
+            "subcat": "Men's Footwear",
+            "url": "https://www.luluhypermarket.com/en-ae/lifestyle-men-foot-wear/c/HY00217010"
+        },
+        {
+            "category": "Fashion & Lifestyle",
+            "subcat": "Men's Accessories",
+            "url": "https://www.luluhypermarket.com/en-ae/lifestyle-men-accessories/c/HY00217011"
+        },
+        {
+            "category": "Fashion & Lifestyle",
+            "subcat": "Men's Inner Wear",
+            "url": "https://www.luluhypermarket.com/en-ae/lifestyle-men-inner-wear/c/HY00216008"
+        },
+        {
+            "category": "Fashion & Lifestyle",
+            "subcat": "Kidswear - Boys",
+            "url": "https://www.luluhypermarket.com/en-ae/lifestyle-kids-boys/c/HY00215210"
+        },
+        {
+            "category": "Fashion & Lifestyle",
+            "subcat": "Kidswear - Girls",
+            "url": "https://www.luluhypermarket.com/en-ae/lifestyle-kids-girls/c/HY00215220"
+        },        
+        {
+            "category": "Fashion & Lifestyle",
+            "subcat": "Kidswear - Baby",
+            "url": "https://www.luluhypermarket.com/en-ae/lifestyle-kids-baby/c/HY00215340"
+        },
+        {
+            "category": "Fashion & Lifestyle",
+            "subcat": "Kids Footwear",
+            "url": "https://www.luluhypermarket.com/en-ae/lifestyle-kids-kids-footwear/c/HY00215335"
+        },
+        {
+            "category": "Fashion & Lifestyle",
+            "subcat": "School Uniforms",
+            "url": "https://www.luluhypermarket.com/en-ae/lifestyle-kids-school-uniforms/c/HY00215330"
+        },
+        {
+            "category": "Fashion & Lifestyle",
+            "subcat": "Sunglasses",
+            "url": "https://www.luluhypermarket.com/en-ae/lifestyle-eyexpress-sunglasses/c/HY00217036"
+        },
+        {
+            "category": "Fashion & Lifestyle",
+            "subcat": "Eye Frames",
+            "url": "https://www.luluhypermarket.com/en-ae/lifestyle-eyexpress-frames/c/HY00217062"
+        },
+        {
+            "category": "Fashion & Lifestyle",
+            "subcat": "Safety Glasses",
+            "url": "https://www.luluhypermarket.com/en-ae/lifestyle-eyexpress-safety-glasses/c/HY00217065"
+        },
+        {
+            "category": "Home & Living",
+            "subcat": "Kitchen Appliances",
+            "url": "https://www.luluhypermarket.com/en-ae/department-store-home-living-kitchen-appliances/c/HY00214852"
+        },
+        {
+            "category": "Home & Living",
+            "subcat": "Home Appliances",
+            "url": "https://www.luluhypermarket.com/en-ae/department-store-home-living-home-appliances/c/HY00214834"
+        },
+        {
+            "category": "Home & Living",
+            "subcat": "Major Appliances",
+            "url": "https://www.luluhypermarket.com/en-ae/department-store-home-living-major-appliances/c/HY00214832"
+        },
+        {
+            "category": "Home & Living",
+            "subcat": "Cooking & Dining",
+            "url": "https://www.luluhypermarket.com/en-ae/department-store-home-living-cooking-dinning/c/HY00216080"
+        },
+        {
+            "category": "Home & Living",
+            "subcat": "Luggage",
+            "url": "https://www.luluhypermarket.com/en-ae/department-store-home-living-luggage/c/HY00214884"
+        },
+        {
+            "category": "Home & Living",
+            "subcat": "Baby Accessories",
+            "url": "https://www.luluhypermarket.com/en-ae/department-store-home-living-baby-accessories/c/HY00215162"
+        },        
+        {
+            "category": "Home & Living",
+            "subcat": "Stationery",
+            "url": "https://www.luluhypermarket.com/en-ae/department-store-home-living-stationery/c/HY00214870"
+        },
+        {
+            "category": "Home & Living",
+            "subcat": "Sports & Fitness",
+            "url": "https://www.luluhypermarket.com/en-ae/department-store-home-living-sports-fitness/c/HY00215180"
+        },
+        {
+            "category": "Home & Living",
+            "subcat": "Home & Decor",
+            "url": "https://www.luluhypermarket.com/en-ae/department-store-home-living-home-d-cor/c/HY00216077"
+        }
+    ]
+}

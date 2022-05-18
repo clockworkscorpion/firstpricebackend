@@ -1,0 +1,220 @@
+{
+    "name":"Carrefour",
+    "urls": [
+        {
+            "category": "Stationery & School Supplies",
+            "subcat": "School Bags & Pencil Cases",
+            "url": "https://www.carrefouruae.com/mafuae/en/Stationery-School-Supplies/School-Bags-Pencil-Cases/c/NF1370000"
+        },        {
+            "category": "Stationery & School Supplies",
+            "subcat": "Paper Supplies",
+            "url": "https://www.carrefouruae.com/mafuae/en/Stationery-School-Supplies/Paper-Supplies/c/NF1360000"
+        },        
+        {
+            "category": "Stationery & School Supplies",
+            "subcat": "Stationery Drawer",
+            "url": "https://www.carrefouruae.com/mafuae/en/Stationery-School-Supplies/Stationery-Drawer/c/NF1380000"
+        },        
+        {
+            "category": "Stationery & School Supplies",
+            "subcat": "Writing Supplies",
+            "url": "https://www.carrefouruae.com/mafuae/en/Stationery-School-Supplies/Writing-Supplies/c/NF1390000"
+        },        
+        {
+            "category": "Cleaning & Household",
+            "subcat": "Candles & Air Fresheners",
+            "url": "https://www.carrefouruae.com/mafuae/en/Cleaning-Household/Candles-Air-Fresheners/c/NF3010000"
+        },        
+        {
+            "category": "Cleaning & Household",
+            "subcat": "Disposables & Napkins",
+            "url": "https://www.carrefouruae.com/mafuae/en/Cleaning-Household/Disposables-Napkins/c/NF3030000"
+        },        
+        {
+            "category": "Cleaning & Household",
+            "subcat": "Cleaning Supplies",
+            "url": "https://www.carrefouruae.com/mafuae/en/c/NF3020000/"
+        },        
+        {
+            "category": "Cleaning & Household",
+            "subcat": "Eco Friendly",
+            "url": "https://www.carrefouruae.com/mafuae/en/Cleaning-Household/Eco-Friendly/c/NF3050000"
+        },        
+        {
+            "category": "Cleaning & Household",
+            "subcat": "Garbage Bags",
+            "url": "https://www.carrefouruae.com/mafuae/en/Cleaning-Household/Garbage-Bags/c/NF3060000"
+        },        
+        {
+            "category": "Cleaning & Household",
+            "subcat": "Kitchen & Toilet Rolls",
+            "url": "https://www.carrefouruae.com/mafuae/en/Cleaning-Household/Kitchen-Toilet-Rolls/c/NF3100000"
+        },        
+        {
+            "category": "Cleaning & Household",
+            "subcat": "Insect & Pest Control",
+            "url": "https://www.carrefouruae.com/mafuae/en/Cleaning-Household/Insect-Pest-Control/c/NF3070000"
+        },        
+        {
+            "category": "Cleaning & Household",
+            "subcat": "Laundry & Detergents",
+            "url": "https://www.carrefouruae.com/mafuae/en/Cleaning-Household/Laundry-Detergents/c/NF3080000"
+        },        
+        {
+            "category": "Cleaning & Household",
+            "subcat": "Tissues",
+            "url": "https://www.carrefouruae.com/mafuae/en/Cleaning-Household/Tissues/c/NF3090000"
+        },        
+        {
+            "category": "Toys & Outdoor",
+            "subcat": "Action Figures & Playsets",
+            "url": "https://www.carrefouruae.com/mafuae/en/Toys-Outdoor/Action-Figures-Playsets/c/NF1410000"
+        },        
+        {
+            "category": "Toys & Outdoor",
+            "subcat": "Bicycles, Scooters, Ride-Ons",
+            "url": "https://www.carrefouruae.com/mafuae/en/Toys-Outdoor/Bicycles-Scooters-Ride-Ons/c/NF1440000"
+        },        
+        {
+            "category": "Toys & Outdoor",
+            "subcat": "Baby Toys",
+            "url": "https://www.carrefouruae.com/mafuae/en/Toys-Outdoor/Baby-Toys/c/NF1430000"
+        },        
+        {
+            "category": "Toys & Outdoor",
+            "subcat": "Arts, Crafts & Music",
+            "url": "https://www.carrefouruae.com/mafuae/en/Toys-Outdoor/Arts-Crafts-Music/c/NF1420000"
+        },        
+        {
+            "category": "Toys & Outdoor",
+            "subcat": "Board Games, Cards & Puzzles",
+            "url": "https://www.carrefouruae.com/mafuae/en/Toys-Outdoor/Board-Games-Cards-Puzzles/c/NF1450000"
+        },        
+        {
+            "category": "Toys & Outdoor",
+            "subcat": "Construction & Building Toys",
+            "url": "https://www.carrefouruae.com/mafuae/en/Toys-Outdoor/Construction-Building-Toys/c/NF1470000"
+        },        
+        {
+            "category": "Toys & Outdoor",
+            "subcat": "Dolls & Accessories",
+            "url": "https://www.carrefouruae.com/mafuae/en/Toys-Outdoor/Dolls-Accessories/c/NF1480000"
+        },        
+        {
+            "category": "Toys & Outdoor",
+            "subcat": "Outdoor Activities",
+            "url": "https://www.carrefouruae.com/mafuae/en/Toys-Outdoor/Outdoor-Activities/c/NF1411000"
+        },        
+        {
+            "category": "Toys & Outdoor",
+            "subcat": "Pretend Play & Costumes",
+            "url": "https://www.carrefouruae.com/mafuae/en/Toys-Outdoor/Pretend-Play-Costumes/c/NF1412000"
+        },        
+        {
+            "category": "Toys & Outdoor",
+            "subcat": "Vehicles & Remote Control Play",
+            "url": "https://www.carrefouruae.com/mafuae/en/Toys-Outdoor/Vehicles-Remote-Control-Play/c/NF1413000"
+        },        
+        {
+            "category": "Health & Fitness",
+            "subcat": "Gym Equipment",
+            "url": "https://www.carrefouruae.com/mafuae/en/Health-Fitness/Gym-Equipment/c/NF7010000"
+        },        
+        {
+            "category": "Health & Fitness",
+            "subcat": "Health & Fitness Devices",
+            "url": "https://www.carrefouruae.com/mafuae/en/Health-Fitness/Health-Fitness-Devices/c/NF7020000"
+        },        
+        {
+            "category": "Health & Fitness",
+            "subcat": "Healthcare & Nutrition",
+            "url": "https://www.carrefouruae.com/mafuae/en/Health-Fitness/Healthcare-Nutrition/c/NF7030000"
+        },        
+        {
+            "category": "Health & Fitness",
+            "subcat": "Sports Equipment",
+            "url": "https://www.carrefouruae.com/mafuae/en/Health-Fitness/Sports-Equipment/c/NF7040000"
+        },        
+        {
+            "category": "Kiosk",
+            "subcat": "Books",
+            "url": "https://www.carrefouruae.com/mafuae/en/Kiosk/Books/c/NF9030000"
+        },        
+        {
+            "category": "Automotive",
+            "subcat": "Car Accessories & Cleaning",
+            "url": "https://www.carrefouruae.com/mafuae/en/Automotive/Car-Accessories-Cleaning/c/NF2302000"
+        },        
+        {
+            "category": "Automotive",
+            "subcat": "Car Audio",
+            "url": "https://www.carrefouruae.com/mafuae/en/Automotive/Car-Audio_Automotive/c/NF2301000"
+        },        
+        {
+            "category": "Fashion, Accessories & Luggage",
+            "subcat": "Luggage & Travel",
+            "url": "https://www.carrefouruae.com/mafuae/en/Fashion-Accessories-Luggage/Luggage-Travel/c/NF5020000"
+        },        
+        {
+            "category": "Fashion, Accessories & Luggage",
+            "subcat": "Men",
+            "url": "https://www.carrefouruae.com/mafuae/en/Fashion-Accessories-Luggage/Men/c/NF5030000"
+        },        
+        {
+            "category": "Home & Garden",
+            "subcat": "Bedroom",
+            "url": "https://www.carrefouruae.com/mafuae/en/Home-Garden/Bedroom/c/NF8020000"
+        },        
+        {
+            "category": "Home & Garden",
+            "subcat": "Bathroom & Laundry",
+            "url": "https://www.carrefouruae.com/mafuae/en/Home-Garden/Bathroom-Laundry/c/NF8010000"
+        },        
+        {
+            "category": "Home & Garden",
+            "subcat": "Camping, Barbeques & Grills",
+            "url": "https://www.carrefouruae.com/mafuae/en/Home-Garden/Camping-Barbeques-Grills/c/NF8030000"
+        },        
+        {
+            "category": "Home & Garden",
+            "subcat": "Cleaning & Household",
+            "url": "https://www.carrefouruae.com/mafuae/en/Home-Garden/Cleaning-Household/c/NF8120000"
+        },        
+        {
+            "category": "Home & Garden",
+            "subcat": "DIY & Electricals",
+            "url": "https://www.carrefouruae.com/mafuae/en/Home-Garden/DIY-Electricals/c/NF8050000"
+        },        
+        {
+            "category": "Home & Garden",
+            "subcat": "Cooking & Disposable Barbeques",
+            "url": "https://www.carrefouruae.com/mafuae/en/Home-Garden/Cooking-Disposable-Barbeques/c/NF8110000"
+        },        
+        {
+            "category": "Home & Garden",
+            "subcat": "Garden Furniture & Decor",
+            "url": "https://www.carrefouruae.com/mafuae/en/Home-Garden/Garden-Furniture-Decor/c/NF8060000"
+        },        
+        {
+            "category": "Home & Garden",
+            "subcat": "Gardening Equipment",
+            "url": "https://www.carrefouruae.com/mafuae/en/Home-Garden/Gardening-Equipment/c/NF8070000"
+        },        
+        {
+            "category": "Home & Garden",
+            "subcat": "Home Storage",
+            "url": "https://www.carrefouruae.com/mafuae/en/Home-Garden/Home-Storage/c/NF8080000"
+        },        
+        {
+            "category": "Home & Garden",
+            "subcat": "Kitchen & Dining",
+            "url": "https://www.carrefouruae.com/mafuae/en/Home-Garden/Kitchen-Dining/c/NF8090000"
+        },        
+        {
+            "category": "Home & Garden",
+            "subcat": "Living Room & Home Decor",
+            "url": "https://www.carrefouruae.com/mafuae/en/Home-Garden/Living-Room-Home-Decor/c/NF8100000"
+        }
+  
+    ]
+}

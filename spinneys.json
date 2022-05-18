@@ -1,0 +1,610 @@
+{
+    "name":"Spinneys",
+    "urls": [
+        {
+            "category": "Baby & Toddler",
+            "subcat": "Accessories",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/baby-toddler/accessories_304/?page={}"
+        },
+        {
+            "category": "Baby & Toddler",
+            "subcat": "Baby Food",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/baby-toddler/food_312/?page={}"
+        },
+        {
+            "category": "Baby & Toddler",
+            "subcat": "Baby Wipes",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/baby-toddler/baby-wipes_311/?page={}"
+        },
+        {
+            "category": "Baby & Toddler",
+            "subcat": "Milk",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/baby-toddler/milk_318/?page={}"
+        },
+        {
+            "category": "Baby & Toddler",
+            "subcat": "Nappies",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/baby-toddler/nappies_323/?page={}"
+        },
+        {
+            "category": "Baby & Toddler",
+            "subcat": "Toiletries",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/baby-toddler/Toiletries_331/?page={}"
+        },
+        {
+            "category": "Bakery",
+            "subcat": "Bread",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/bakery/bread_334/?page={}"
+        },
+        {
+            "category": "Bakery",
+            "subcat": "Crumpets, Croissants & Pastries",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/bakery/crumpets-croissants-pastries_609/?page={}"
+        },
+        {
+            "category": "Bakery",
+            "subcat": "Rolls, Baguettes & Bagels",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/bakery/rolls-baguettes-bagels_611/?page={}"
+        },
+        {
+            "category": "Bakery",
+            "subcat": "Savoury Treats",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/bakery/Savoury-treats_887/?page={}"
+        },
+        {
+            "category": "Bakery",
+            "subcat": "Sweet Treats",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/bakery/sweet-treats_339/?page={}"
+        },
+        {
+            "category": "Bakery",
+            "subcat": "World Bakery",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/bakery/world-bakery_614/?page={}"
+        },
+        {
+            "category": "Bakery",
+            "subcat": "Wraps, Pita & Arabic Bread",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/bakery/wraps-pitta-arabic-bread_343/?page={}"
+        },
+        {
+            "category": "Beauty & Cosmetics",
+            "subcat": "Facial Skincare",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/beauty-cosmetics/facial-skincare_345/?page={}"
+        },
+        {
+            "category": "Beauty & Cosmetics",
+            "subcat": "Make Up",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/beauty-cosmetics/make-up_354/?page={}"
+        },
+        {
+            "category": "Beverages",
+            "subcat": "Coffee",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/beverages/coffee_358/?page={}"
+        },
+        {
+            "category": "Beverages",
+            "subcat": "Free From",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/beverages/free-from_872/?page={}"
+        },
+        {
+            "category": "Beverages",
+            "subcat": "Hot Chocolate & Malted",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/beverages/hot-chocolate-malted_874/?page={}"
+        },
+        {
+            "category": "Beverages",
+            "subcat": "Kids & Lunchboxes",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/beverages/kids-lunchboxes_801/?page={}"
+        },
+        {
+            "category": "Beverages",
+            "subcat": "Long Life Milk",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/beverages/long-life-milk_793/?page={}"
+        },
+        {
+            "category": "Beverages",
+            "subcat": "Premium & Mixers",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/beverages/premium-mixers_987/?page={}"
+        },
+        {
+            "category": "Beverages",
+            "subcat": "Refrigerated",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/beverages/refrigerated_360/?page={}"
+        },
+        {
+            "category": "Beverages",
+            "subcat": "Soft Drinks, Juices & Squash",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/beverages/soft-drinks-juices-squash_365/?page={}"
+        },
+        {
+            "category": "Beverages",
+            "subcat": "Sports, Nutrition & Vitamin",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/beverages/sports-nutrition-vitamin_373/?page={}"
+        },
+        {
+            "category": "Beverages",
+            "subcat": "Tea",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/beverages/tea_374/?page={}"
+        },
+        {
+            "category": "Beverages",
+            "subcat": "Water",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/beverages/water_377/?page={}"
+        },
+        {
+            "category": "Butchery",
+            "subcat": "Beef",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/butchery/beef_381/?page={}"
+        },
+        {
+            "category": "Butchery",
+            "subcat": "Chicken",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/butchery/chicken_386/?page={}"
+        },
+        {
+            "category": "Butchery",
+            "subcat": "Lamb",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/butchery/lamb_396/?page={}"
+        },
+        {
+            "category": "Butchery",
+            "subcat": "Mutton",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/butchery/mutton_397/?page={}"
+        },
+        {
+            "category": "Butchery",
+            "subcat": "Stock & Gravy",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/butchery/stock-gravy_809/?page={}"
+        },
+        {
+            "category": "Butchery",
+            "subcat": "Turkey, Duck & Rabbit",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/butchery/turkey-duck-rabbit_398/?page={}"
+        },
+        {
+            "category": "Butchery",
+            "subcat": "Veal",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/butchery/veal_630/?page={}"
+        },
+        {
+            "category": "Dairy, Deli & Chilled Foods",
+            "subcat": "Butter & Spreads",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/dairy-deli-chilled-foods/butter-spreads_400/?page={}"
+        },
+        {
+            "category": "Dairy, Deli & Chilled Foods",
+            "subcat": "Cheese",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/dairy-deli-chilled-foods/cheese_403/?page={}"
+        },
+        {
+            "category": "Dairy, Deli & Chilled Foods",
+            "subcat": "Cooked Meats, Olives & Dips",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/dairy-deli-chilled-foods/cooked-meats-olives-dips_427/?page={}"
+        },
+        {
+            "category": "Dairy, Deli & Chilled Foods",
+            "subcat": "Deli Counters",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/dairy-deli-chilled-foods/deli-counters_633/?page={}"
+        },
+        {
+            "category": "Dairy, Deli & Chilled Foods",
+            "subcat": "Desserts",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/dairy-deli-chilled-foods/desserts_429/?page={}"
+        },
+        {
+            "category": "Dairy, Deli & Chilled Foods",
+            "subcat": "Eggs",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/dairy-deli-chilled-foods/eggs_430/?page={}"
+        },
+        {
+            "category": "Dairy, Deli & Chilled Foods",
+            "subcat": "Food to Go",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/dairy-deli-chilled-foods/food-to-go_912/?page={}"
+        },
+        {
+            "category": "Dairy, Deli & Chilled Foods",
+            "subcat": "Meal Kits",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/dairy-deli-chilled-foods/meal-kits_1023/?page={}"
+        },
+        {
+            "category": "Dairy, Deli & Chilled Foods",
+            "subcat": "Milk & Cream",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/dairy-deli-chilled-foods/milk-cream_433/?page={}"
+        },
+        {
+            "category": "Dairy, Deli & Chilled Foods",
+            "subcat": "Pizza, Pasta & Garlic Bread",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/dairy-deli-chilled-foods/pizza-pasta-garlic-bread_446/?page={}"
+        },
+        {
+            "category": "Dairy, Deli & Chilled Foods",
+            "subcat": "Ready Meals",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/dairy-deli-chilled-foods/ready-meals_448/?page={}"
+        },
+        {
+            "category": "Dairy, Deli & Chilled Foods",
+            "subcat": "Vegetarian & Vegan",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/dairy-deli-chilled-foods/vegetarian-vegan_1016/?page={}"
+        },
+        {
+            "category": "Dairy, Deli & Chilled Foods",
+            "subcat": "Yoghurts",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/dairy-deli-chilled-foods/yoghurts_452/?page={}"
+        },
+        {
+            "category": "Flower Shop",
+            "subcat": "Lillies",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/flower/lilies_1045/?page={}"
+        },
+        {
+            "category": "Flower Shop",
+            "subcat": "Luxury",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/flower/luxury_1043/?page={}"
+        },
+        {
+            "category": "Flower Shop",
+            "subcat": "Roses",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/flower/roses_1044/?page={}"
+        },
+        {
+            "category": "Flower Shop",
+            "subcat": "Seasonal",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/flower/seasonal_1046/?page={}"
+        },        
+        {
+            "category": "Food Cupboard",
+            "subcat": "Biscuits & Crackers",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/food-cupboard/biscuits-crackers_461/?page={}"
+        },
+        {
+            "category": "Food Cupboard",
+            "subcat": "Cans, Tins & Packets",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/food-cupboard/cans-tins-packets_467/?page={}"
+        },
+        {
+            "category": "Food Cupboard",
+            "subcat": "Cereals",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/food-cupboard/cereals_478/?page={}"
+        },
+        {
+            "category": "Food Cupboard",
+            "subcat": "Condiments & Table Sauces",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/food-cupboard/condiments-table-sauces_487/?page={}"
+        },
+        {
+            "category": "Food Cupboard",
+            "subcat": "Confectionery",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/food-cupboard/confectionery_643/?page={}"
+        },        
+        {
+            "category": "Food Cupboard",
+            "subcat": "Cooking Ingredients & Oils",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/food-cupboard/cooking-ingredients-oils_496/?page={}"
+        },
+        {
+            "category": "Food Cupboard",
+            "subcat": "Crisps, Nuts & Snacking",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/food-cupboard/crisps-nuts-snacking_500/?page={}"
+        },
+        {
+            "category": "Food Cupboard",
+            "subcat": "Honey, Jams & Spreads",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/food-cupboard/honey-jams-spreads_663/?page={}"
+        },
+        {
+            "category": "Food Cupboard",
+            "subcat": "Jars",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/food-cupboard/jars_504/?page={}"
+        },
+        {
+            "category": "Food Cupboard",
+            "subcat": "Meal Kits",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/food-cupboard/meal-kits_647/?page={}"
+        },
+        {
+            "category": "Food Cupboard",
+            "subcat": "Pasta & Noodles",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/food-cupboard/pasta-noodles_668/?page={}"
+        },
+        {
+            "category": "Food Cupboard",
+            "subcat": "Rice, Grains & Pulses",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/food-cupboard/rice-grains-pulses_506/?page={}"
+        },
+        {
+            "category": "Food Cupboard",
+            "subcat": "Sports Nutrition",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/food-cupboard/sports-nutrition_1017/?page={}"
+        },
+        {
+            "category": "Food Cupboard",
+            "subcat": "Sugar & Home Baking",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/food-cupboard/sugar-home-baking_511/?page={}"
+        },
+        {
+            "category": "Frozen",
+            "subcat": "Chips & Potatoes",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/frozen/chips-potatoes_828/?page={}"
+        },
+        {
+            "category": "Frozen",
+            "subcat": "Desserts, Ice Creams & Lollies",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/frozen/desserts-ice-cream-lollies_683/?page={}"
+        },
+        {
+            "category": "Frozen",
+            "subcat": "Fruits & Smoothies",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/frozen/fruit-smoothies_967/?page={}"
+        },
+        {
+            "category": "Frozen",
+            "subcat": "Gluten Free",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/frozen/gluten-free_1010/?page={}"
+        },
+        {
+            "category": "Frozen",
+            "subcat": "Herbs, Vegetables & Yorkshire Puddings",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/frozen/herbs-vegetables-yorkshire-puddings_971/?page={}"
+        },
+        {
+            "category": "Frozen",
+            "subcat": "Meat & Poultry",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/frozen/meat-poultry_789/?page={}"
+        },
+        {
+            "category": "Frozen",
+            "subcat": "Pastry, Dough & Dairy",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/frozen/pastry-dough-dairy_833/?page={}"
+        },
+        {
+            "category": "Frozen",
+            "subcat": "Pizza, Pies & Party Food",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/frozen/pizza-pies-party-food_836/?page={}"
+        },
+        {
+            "category": "Frozen",
+            "subcat": "Ready Meals",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/frozen/ready-meals_838/?page={}"
+        },
+        {
+            "category": "Frozen",
+            "subcat": "Seafood",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/frozen/seafood_831/?page={}"
+        },
+        {
+            "category": "Frozen",
+            "subcat": "Vegetarian & Vegan",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/frozen/vegetarian-vegan_787/?page={}"
+        },
+        {
+            "category": "Frozen",
+            "subcat": "World Food",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/frozen/world-food_840/?page={}"
+        },
+        {
+            "category": "Fruit & Vegetables",
+            "subcat": "Fruit",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/fruit-vegetables/fruit_516/?page={}"
+        },
+        {
+            "category": "Fruit & Vegetables",
+            "subcat": "Salads & Herbs",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/fruit-vegetables/salad-herbs_539/?page={}"
+        },
+        {
+            "category": "Fruit & Vegetables",
+            "subcat": "Vegetables",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/fruit-vegetables/vegetables_546/?page={}"
+        },
+        {
+            "category": "Home & Leisure",
+            "subcat": "Electrical & Home",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/home-leisure/electrical-home_693/?page={}"
+        },
+        {
+            "category": "Home & Leisure",
+            "subcat": "Entertainment",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/home-leisure/entertainment_706/?page={}"
+        },
+        {
+            "category": "Home & Leisure",
+            "subcat": "Kitchen & Dining",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/home-leisure/kitchen-dining_708/?page={}"
+        },
+        {
+            "category": "Home & Leisure",
+            "subcat": "Leisure & Outdoor",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/home-leisure/leisure-outdoor_993/?page={}"
+        },
+        {
+            "category": "Home & Leisure",
+            "subcat": "Stationery & Office",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/home-leisure/stationery-office_996/?page={}"
+        },
+        {
+            "category": "Home & Leisure",
+            "subcat": "Travel",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/home-leisure/travel_849/?page={}"
+        },
+        {
+            "category": "Household",
+            "subcat": "Air Fresheners & Candles",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/household/air-fresheners-candles_718/?page={}"
+        },
+        {
+            "category": "Household",
+            "subcat": "Cleaning Cupboard",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/household/cleaning-cupboard_720/?page={}"
+        },
+        {
+            "category": "Household",
+            "subcat": "Cling Film, Foil & Bags",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/household/cling-film-foil-bags_857/?page={}"
+        },
+        {
+            "category": "Household",
+            "subcat": "Dishwashing",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/household/dishwashing_727/?page={}"
+        },
+        {
+            "category": "Household",
+            "subcat": "Laundry",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/household/laundry_731/?page={}"
+        },
+        {
+            "category": "Household",
+            "subcat": "Toilet Rolls & Tissues",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/household/toilet-rolls-tissues_739/?page={}"
+        },
+        {
+            "category": "Kiosk",
+            "subcat": "Non-Muslim",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/kiosk/non-muslim_563/?page={}"
+        },
+        {
+            "category": "Pet Care",
+            "subcat": "Cats",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/petcare/cats_567/?page={}"
+        },
+        {
+            "category": "Pet Care",
+            "subcat": "Dogs",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/petcare/dogs_573/?page={}"
+        },
+        {
+            "category": "Pet Care",
+            "subcat": "Small Animals, Fish & Birds",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/petcare/small-animals-fish-birds_582/?page={}"
+        },
+        {
+            "category": "Seafood",
+            "subcat": "Caviar & Speciality",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/seafood/caviar-speciality_590/?page={}"
+        },
+        {
+            "category": "Seafood",
+            "subcat": "Fillets",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/seafood/fillets_885/?page={}"
+        },
+        {
+            "category": "Seafood",
+            "subcat": "Prawns & Shellfish",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/seafood/prawns-shellfish_745/?page={}"
+        },
+        {
+            "category": "Seafood",
+            "subcat": "Salmon",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/seafood/salmon_592/?page={}"
+        },
+        {
+            "category": "Seafood",
+            "subcat": "Seafood on Ice",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/seafood/on-ice_591/?page={}"
+        },
+        {
+            "category": "Seafood",
+            "subcat": "Smoked Seafood",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/seafood/smoked_593/?page={}"
+        },
+        {
+            "category": "Seasonal Events",
+            "subcat": "Ramadan",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/seasonal-events/ramadan_1070/?page={}"
+        },
+        {
+            "category": "Toiletries & Health",
+            "subcat": "Body Skincare",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/toiletries-health/body-skincare_748/?page={}"
+        },
+        {
+            "category": "Toiletries & Health",
+            "subcat": "Deodorants & Body Sprays",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/toiletries-health/deodorants-body-sprays_749/?page={}"
+        },
+        {
+            "category": "Toiletries & Health",
+            "subcat": "Female Grooming",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/toiletries-health/female-grooming_752/?page={}"
+        },
+        {
+            "category": "Toiletries & Health",
+            "subcat": "First Aid & Healthcare",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/toiletries-health/first-aid-healthcare_759/?page={}"
+        },
+        {
+            "category": "Toiletries & Health",
+            "subcat": "Hair Care",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/toiletries-health/haircare_762/?page={}"
+        },
+        {
+            "category": "Toiletries & Health",
+            "subcat": "Hand Sanitizer",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/toiletries-health/hand-sanitiser_769/?page={}"
+        },
+        {
+            "category": "Toiletries & Health",
+            "subcat": "Male Grooming",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/toiletries-health/males-grooming_771/?page={}"
+        },
+        {
+            "category": "Toiletries & Health",
+            "subcat": "Oral Care",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/toiletries-health/oral-care_595/?page={}"
+        },
+        {
+            "category": "Toiletries & Health",
+            "subcat": "Shower, Baths & Soap",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/toiletries-health/shower-baths-and-soaps_600/?page={}"
+        },
+        {
+            "category": "Toiletries & Health",
+            "subcat": "Sun Care & Travel",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/toiletries-health/sun-care-travel_777/?page={}"
+        },
+        {
+            "category": "Toiletries & Health",
+            "subcat": "Vitamins & Supplements",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/toiletries-health/vitamins-supplements_795/?page={}"
+        },
+        {
+            "category": "World Foods",
+            "subcat": "Chinese",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/world-foods/chinese_961/?page={}"
+        },
+        {
+            "category": "World Foods",
+            "subcat": "Filipino",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/world-foods/filipino_782/?page={}"
+        },
+        {
+            "category": "World Foods",
+            "subcat": "Indian",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/world-foods/indian_957/?page={}"
+        },
+        {
+            "category": "World Foods",
+            "subcat": "Japanese",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/world-foods/japanese_956/?page={}"
+        },
+        {
+            "category": "World Foods",
+            "subcat": "Korean",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/world-foods/korean_781/?page={}"
+        },
+        {
+            "category": "World Foods",
+            "subcat": "Russian",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/world-foods/russian_963/?page={}"
+        },
+        {
+            "category": "World Foods",
+            "subcat": "Sri Lankan",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/world-foods/sri-lankan_964/?page={}"
+        },
+        {
+            "category": "World Foods",
+            "subcat": "Thai",
+            "url": "https://www.spinneys.com/en-ae/catalogue/category/world-foods/thai_986/?page={}"
+        }
+    ]
+}

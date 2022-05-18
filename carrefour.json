@@ -1,0 +1,245 @@
+{
+    "name":"Carrefour",
+    "urls": [
+        {
+            "category": "Fresh Food",
+            "subcat": "Chilled Food Counter",
+            "url": "https://www.carrefouruae.com/mafuae/en/Fresh-Food/Chilled-Food-Counter/c/F1620000"
+        },
+        {
+            "category": "Fresh Food",
+            "subcat": "Fish & Seafood",
+            "url": "https://www.carrefouruae.com/mafuae/en/Fresh-Food/Fish-Seafood/c/F1640000"
+        },
+        {
+            "category": "Fresh Food",
+            "subcat": "Food to Go",
+            "url": "https://www.carrefouruae.com/mafuae/en/Fresh-Food/Food-To-Go/c/F1650000"
+        },
+        {
+            "category": "Fresh Food",
+            "subcat": "Meat & Poultry",
+            "url": "https://www.carrefouruae.com/mafuae/en/Fresh-Food/Meat-Poultry/c/F1670000"
+        },
+        {
+            "category": "Fresh Food",
+            "subcat": "Dairy & Eggs",
+            "url": "https://www.carrefouruae.com/mafuae/en/Fresh-Food/Dairy-Eggs/c/F21600000"
+        },
+        {
+            "category": "Fresh Food",
+            "subcat": "Fruits & Vegetables",
+            "url": "https://www.carrefouruae.com/mafuae/en/Fresh-Food/Fruits-Vegetables/c/F11600000"
+        },
+        {
+            "category": "Food Cupboard",
+            "subcat": "Biscuits, Crackers & Cakes",
+            "url": "https://www.carrefouruae.com/mafuae/en/Food-Cupboard/Biscuits-Crackers-Cakes/c/F1710000"
+        },
+        {
+            "category": "Food Cupboard",
+            "subcat": "Breakfast Cereals & Bars",
+            "url": "https://www.carrefouruae.com/mafuae/en/Food-Cupboard/Breakfast-Cereals-Bars/c/F1720000"
+        },        
+        {
+            "category": "Food Cupboard",
+            "subcat": "Chips, Dips & Snacks",
+            "url": "https://www.carrefouruae.com/mafuae/en/Food-Cupboard/Chips-Dips-Snacks/c/F1730000"
+        },
+        {
+            "category": "Food Cupboard",
+            "subcat": "Chocolates",
+            "url": "https://www.carrefouruae.com/mafuae/en/Food-Cupboard/Chocolate-Confectionery/Chocolates/c/F1740200"
+        },
+        {
+            "category": "Food Cupboard",
+            "subcat": "Gums & Mints",
+            "url": "https://www.carrefouruae.com/mafuae/en/Food-Cupboard/Chocolate-Confectionery/Gums-Mints/c/F1740300"
+        },
+        {
+            "category": "Food Cupboard",
+            "subcat": "Seasonal Confectionery",
+            "url": "https://www.carrefouruae.com/mafuae/en/Food-Cupboard/Chocolate-ConfectionerySeasonal-Confectionery/c/F1740400"
+        },
+        {
+            "category": "Food Cupboard",
+            "subcat": "Candy",
+            "url": "https://www.carrefouruae.com/mafuae/en/Food-Cupboard/Chocolate-Confectionery/Candy/c/F1740100"
+        },
+        {
+            "category": "Food Cupboard",
+            "subcat": "Condiments, Dressings & Marinades",
+            "url": "https://www.carrefouruae.com/mafuae/en/Food-Cupboard/Condiments-Dressings-Marinades/c/F1750000"
+        },
+        {
+            "category": "Food Cupboard",
+            "subcat": "Breadcrumbs",
+            "url": "https://www.carrefouruae.com/mafuae/en/Food-Cupboard/Cooking-Ingredients/Breadcrumbs/c/F1760500"
+        },
+        {
+            "category": "Food Cupboard",
+            "subcat": "Cooking Sauces & Pastes",
+            "url": "https://www.carrefouruae.com/mafuae/en/Food-Cupboard/Cooking-Ingredients/Cooking-Sauces-Pastes/c/F1760100"
+        },
+        {
+            "category": "Food Cupboard",
+            "subcat": "Gravy & Stock",
+            "url": "https://www.carrefouruae.com/mafuae/en/Food-Cupboard/Cooking-Ingredients/Gravy-Stock/c/F1760600"
+        },
+        {
+            "category": "Food Cupboard",
+            "subcat": "Herbs, Spices & Seasoning",
+            "url": "https://www.carrefouruae.com/mafuae/en/Food-Cupboard/Cooking-Ingredients/Herbs-Spices-Seasoning/c/F1760300"
+        },
+        {
+            "category": "Food Cupboard",
+            "subcat": "Oils & Ghee",
+            "url": "https://www.carrefouruae.com/mafuae/en/Food-Cupboard/Cooking-Ingredients/Oils-Ghee/c/F1760400"
+        },
+        {
+            "category": "Food Cupboard",
+            "subcat": "Coconut Powder",
+            "url": "https://www.carrefouruae.com/mafuae/en/Food-Cupboard/Tins-Jars-Packets/Coconut-Powder/c/F1714211"
+        },
+        {
+            "category": "Food Cupboard",
+            "subcat": "Coconut Cream",
+            "url": "https://www.carrefouruae.com/mafuae/en/Food-Cupboard/Tins-Jars-Packets/Coconut-Cream/c/F1714212"
+        },
+        {
+            "category": "Food Cupboard",
+            "subcat": "Canned Fruits",
+            "url": "https://www.carrefouruae.com/mafuae/en/Food-Cupboard/Tins-Jars-Packets/Canned-Fruits/c/F1714300"
+        },
+        {
+            "category": "Food Cupboard",
+            "subcat": "Canned Meat",
+            "url": "https://www.carrefouruae.com/mafuae/en/Food-Cupboard/Tins-Jars-Packets/Canned-Meat/c/F1714500"
+        },
+        {
+            "category": "Food Cupboard",
+            "subcat": "Pickles & Olives",
+            "url": "https://www.carrefouruae.com/mafuae/en/Food-Cupboard/Tins-Jars-Packets/Pickles-Olives/c/F1714400"
+        },
+        {
+            "category": "Food Cupboard",
+            "subcat": "Canned Vegetables",
+            "url": "https://www.carrefouruae.com/mafuae/en/Food-Cupboard/Tins-Jars-Packets/Canned-Vegetables-/c/F1714100"
+        },
+        {
+            "category": "Food Cupboard",
+            "subcat": "Powdered Milk",
+            "url": "https://www.carrefouruae.com/mafuae/en/Food-Cupboard/Tins-Jars-Packets/Powdered-Milk/c/F1714600"
+        },
+        {
+            "category": "Food Cupboard",
+            "subcat": "Tuna & Seafood",
+            "url": "https://www.carrefouruae.com/mafuae/en/Food-Cupboard/Tins-Jars-Packets/Tuna-Seafood/c/F1714900"
+        },
+        {
+            "category": "Food Cupboard",
+            "subcat": "Soup & Instant Noodles",
+            "url": "https://www.carrefouruae.com/mafuae/en/Food-Cupboard/Tins-Jars-Packets/Soup-Instant-Noodles/c/F1714800"
+        },
+
+        {
+            "category": "Food Cupboard",
+            "subcat": "Jams, Honey & Spreads",
+            "url": "https://www.carrefouruae.com/mafuae/en/Food-Cupboard/Jams-Honey-Spreads/c/F1770000"
+        },
+        {
+            "category": "Food Cupboard",
+            "subcat": "Nuts, Dates & Dried Fruits",
+            "url": "https://www.carrefouruae.com/mafuae/en/Food-Cupboard/Nuts-Dates-Dried-Fruits/c/F1780000"
+        },
+                {
+            "category": "Food Cupboard",
+            "subcat": "Rice, Pasta & Pulses",
+            "url": "https://www.carrefouruae.com/mafuae/en/Food-Cupboard/Rice-Pasta-Pulses/c/F1701200"
+        },        {
+            "category": "Food Cupboard",
+            "subcat": "Sugar & Home Baking",
+            "url": "https://www.carrefouruae.com/mafuae/en/Food-Cupboard/Sugar-Home-Baking/c/F1701300"
+        },
+        {
+            "category": "Food Cupboard",
+            "subcat": "World Specialties",
+            "url": "https://www.carrefouruae.com/mafuae/en/Food-Cupboard/World-Specialities/c/F1790000"
+        },
+        {
+            "category": "Beverages",
+            "subcat": "Juices",
+            "url": "https://www.carrefouruae.com/mafuae/en/Beverages/Juices/c/F1520000"
+        },
+        {
+            "category": "Beverages",
+            "subcat": "Coffee",
+            "url": "https://www.carrefouruae.com/mafuae/en/Beverages/Coffee/c/F1510000"
+        },
+        {
+            "category": "Beverages",
+            "subcat": "Kids' Drinks",
+            "url": "https://www.carrefouruae.com/mafuae/en/Beverages/Kids-Drinks/c/F1530000"
+        },        
+        {
+            "category": "Beverages",
+            "subcat": "Powdered Drinks",
+            "url": "https://www.carrefouruae.com/mafuae/en/Beverages/Powdered-Drinks/c/F1540000"
+        },
+        {
+            "category": "Beverages",
+            "subcat": "Soft Drinks",
+            "url": "https://www.carrefouruae.com/mafuae/en/Beverages/Soft-Drinks/c/F1550000"
+        },
+        {
+            "category": "Beverages",
+            "subcat": "Tea",
+            "url": "https://www.carrefouruae.com/mafuae/en/Beverages/Tea/c/F1560000"
+        },
+        {
+            "category": "Beverages",
+            "subcat": "Water",
+            "url": "https://www.carrefouruae.com/mafuae/en/Beverages/Water/c/F1570000"
+        },
+        {
+            "category": "Frozen Food",
+            "subcat": "Fish & Seafood",
+            "url": "https://www.carrefouruae.com/mafuae/en/Frozen-Food/Fish-Seafood_Frozen/c/F6010000"
+        },
+        {
+            "category": "Frozen Food",
+            "subcat": "Fruits & Vegetables",
+            "url": "https://www.carrefouruae.com/mafuae/en/Frozen-Food/Fruits-Vegetables_Frozen/c/F6020000"
+        },
+        {
+            "category": "Frozen Food",
+            "subcat": "Ice",
+            "url": "https://www.carrefouruae.com/mafuae/en/Frozen-Food/Ice/c/F6030000"
+        },        
+        {
+            "category": "Frozen Food",
+            "subcat": "Ice Cream & Desserts",
+            "url": "https://www.carrefouruae.com/mafuae/en/Frozen-Food/Ice-Cream-Desserts/c/F6040000"
+        },
+        {
+            "category": "Frozen Food",
+            "subcat": "Meat & Poultry",
+            "url": "https://www.carrefouruae.com/mafuae/en/Frozen-Food/Meat-Poultry_Frozen/c/F6050000"
+        },
+        {
+            "category": "Frozen Food",
+            "subcat": "Ready Meals & Appetizers",
+            "url": "https://www.carrefouruae.com/mafuae/en/Frozen-Food/Ready-Meals-Appetizers/c/F6060000"
+        },
+        {
+            "category": "Bakery",
+            "subcat": "Arabic Bread, Wraps & Flatbreads",
+            "url": "https://www.carrefouruae.com/mafuae/en/Bakery/Arabic-Bread-Wraps-Flatbreads/c/F1610100"
+        },
+        {
+            "category": "Bakery",
+            "subcat": "Crackers & Bread Sticks",
+            "url": "https://www.carrefouruae.com/mafuae/en/Bakery/Crackers-Bread-Sticks/c/F1610400"
+        }
+    ]
+}

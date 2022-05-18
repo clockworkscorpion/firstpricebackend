@@ -1,0 +1,246 @@
+{
+    "name":"Carrefour",
+    "urls": [
+        {
+            "category": "Bakery",
+            "subcat": "Bread & Rolls",
+            "url": "https://www.carrefouruae.com/mafuae/en/Bakery/Bread-Rolls/c/F1610300"
+        },
+        {
+            "category": "Bakery",
+            "subcat": "Sweets",
+            "url": "https://www.carrefouruae.com/mafuae/en/Bakery/Sweets/c/F1610200"
+        },
+        {
+            "category": "Bakery",
+            "subcat": "Donuts, Cookies & Muffins",
+            "url": "https://www.carrefouruae.com/mafuae/en/Bakery/Donuts-Cookies-Muffins/c/F1610600"
+        },
+        {
+            "category": "Bakery",
+            "subcat": "Croissants, Pastries & Cakes",
+            "url": "https://www.carrefouruae.com/mafuae/en/Bakery/Croissants-Pastries-Cakes/c/F1610500"
+        },        
+        {
+            "category": "Dairy & Eggs",
+            "subcat": "Butter & Margarine",
+            "url": "https://www.carrefouruae.com/mafuae/en/Dairy-Eggs/Butter-Margarine/c/F21630100"
+        },
+        {
+            "category": "Dairy & Eggs",
+            "subcat": "Chilled Desserts",
+            "url": "https://www.carrefouruae.com/mafuae/en/Dairy-Eggs/Chilled-Desserts/c/F21630700"
+        },
+
+                {
+            "category": "Dairy & Eggs",
+            "subcat": "Cheese & Labneh",
+            "url": "https://www.carrefouruae.com/mafuae/en/Dairy-Eggs/Cheese-Labneh/c/F21630200"
+        },        
+        {
+            "category": "Dairy & Eggs",
+            "subcat": "Cream",
+            "url": "https://www.carrefouruae.com/mafuae/en/Dairy-Eggs/Cream/c/F21630300"
+        },
+        {
+            "category": "Dairy & Eggs",
+            "subcat": "Eggs",
+            "url": "https://www.carrefouruae.com/mafuae/en/Dairy-Eggs/Eggs/c/F21630400"
+        },
+        {
+            "category": "Dairy & Eggs",
+            "subcat": "Milk & Laban",
+            "url": "https://www.carrefouruae.com/mafuae/en/Dairy-Eggs/Milk-Laban/c/F21630500"
+        },
+        {
+            "category": "Fruits & Vegetables",
+            "subcat": "Fresh Box",
+            "url": "https://www.carrefouruae.com/mafuae/en/Fruits-Vegetables/Fresh-Box/c/F11660600"
+        },
+        {
+            "category": "Fruits & Vegetables",
+            "subcat": "Fruits",
+            "url": "https://www.carrefouruae.com/mafuae/en/Fruits-Vegetables/Fruits/c/F11660100"
+        },
+        {
+            "category": "Fruits & Vegetables",
+            "subcat": "Herbs",
+            "url": "https://www.carrefouruae.com/mafuae/en/Fruits-Vegetables/Herbs/c/F11660200"
+        },
+        {
+            "category": "Fruits & Vegetables",
+            "subcat": "Vegetables",
+            "url": "https://www.carrefouruae.com/mafuae/en/Fruits-Vegetables/Vegetables/c/F11660500"
+        },
+        {
+            "category": "Bio & Organic Food",
+            "subcat": "Food Cupboard",
+            "url": "https://www.carrefouruae.com/mafuae/en/Bio-Organic-Food/Food-Cupboard/c/F1200400"
+        },
+        {
+            "category": "Bio & Organic Food",
+            "subcat": "Free From",
+            "url": "https://www.carrefouruae.com/mafuae/en/Bio-Organic-Food/Free-From/c/F1208000"
+        },
+        {
+            "category": "Bio & Organic Food",
+            "subcat": "Meat, Fish & Poultry",
+            "url": "https://www.carrefouruae.com/mafuae/en/Bio-Organic-Food/Meat-Fish-Poultry/c/F1200600"
+        },
+        {
+            "category": "Bio & Organic Food",
+            "subcat": "Organic Dairy Products",
+            "url": "https://www.carrefouruae.com/mafuae/en/Bio-Organic-Food/Organic-Dairy-Products/c/F1205000"
+        },
+        {
+            "category": "Bio & Organic Food",
+            "subcat": "Organic Baby Food",
+            "url": "https://www.carrefouruae.com/mafuae/en/Bio-Organic-Food/Organic-Baby-Food/c/F1201000"
+        },
+        {
+            "category": "Bio & Organic Food",
+            "subcat": "Organic Drinks",
+            "url": "https://www.carrefouruae.com/mafuae/en/Bio-Organic-Food/Organic-Drinks/c/F1200700"
+        },
+        {
+            "category": "Bio & Organic Food",
+            "subcat": "Organic Frozen Products",
+            "url": "https://www.carrefouruae.com/mafuae/en/Bio-Organic-Food/Organic-Frozen-Products/c/F1200900"
+        },
+        {
+            "category": "Bio & Organic Food",
+            "subcat": "Organic Fruits & Vegetables",
+            "url": "https://www.carrefouruae.com/mafuae/en/Bio-Organic-Food/Organic-Fruits-Vegetables/c/F1209000"
+        },
+        {
+            "category": "Baby Products",
+            "subcat": "Baby Healthcare",
+            "url": "https://www.carrefouruae.com/mafuae/en/Baby-Products/Baby-Healthcare/c/F1010000"
+        },        
+        {
+            "category": "Baby Products",
+            "subcat": "Baby Travelling",
+            "url": "https://www.carrefouruae.com/mafuae/en/Baby-Products/Baby-Travelling/c/F1060000"
+        },
+        {
+            "category": "Baby Products",
+            "subcat": "Feeding Accessories",
+            "url": "https://www.carrefouruae.com/mafuae/en/Baby-Products/Feeding-Accessories/c/F1030000"
+        },
+        {
+            "category": "Baby Products",
+            "subcat": "Changing & Bathing",
+            "url": "https://www.carrefouruae.com/mafuae/en/Baby-Products/Changing-Bathing/c/F1020000"
+        },
+        {
+            "category": "Baby Products",
+            "subcat": "Milk, Food & Juices",
+            "url": "https://www.carrefouruae.com/mafuae/en/Baby-Products/Milk-Food-Juices/c/F1040000"
+        },
+        {
+            "category": "Baby Products",
+            "subcat": "Nursery & Safety",
+            "url": "https://www.carrefouruae.com/mafuae/en/Baby-Products/Nursery-Safety/c/F1050000"
+        },
+        {
+            "category": "Pet Supplies",
+            "subcat": "Pet Care",
+            "url": "https://www.carrefouruae.com/mafuae/en/Pet-Supplies/Pet-Care/c/F1130000"
+        },
+        {
+            "category": "Pet Supplies",
+            "subcat": "Pet Treats & Chews",
+            "url": "https://www.carrefouruae.com/mafuae/en/Pet-Supplies/Pet-Treats-Chews/c/F1140000"
+        },
+        {
+            "category": "Pet Supplies",
+            "subcat": "Pet Food",
+            "url": "https://www.carrefouruae.com/mafuae/en/Pet-Supplies/Pets-Food/c/F1120000"
+        },
+        {
+            "category": "Pet Supplies",
+            "subcat": "Pet Accessories & Toys",
+            "url": "https://www.carrefouruae.com/mafuae/en/Pet-Supplies/Pet-Accessories-Toys/c/F1110000"
+        },        
+        {
+            "category": "Beauty & Personal Care",
+            "subcat": "Dental Care",
+            "url": "https://www.carrefouruae.com/mafuae/en/Beauty-Personal-Care/Dental-Care/c/NF2010000"
+        },        
+        {
+            "category": "Beauty & Personal Care",
+            "subcat": "Ladies' Hair Removal",
+            "url": "https://www.carrefouruae.com/mafuae/en/Beauty-Personal-Care/Ladies-Hair-Removal/c/NF2011000"
+        },        
+        {
+            "category": "Beauty & Personal Care",
+            "subcat": "Makeup & Nails",
+            "url": "https://www.carrefouruae.com/mafuae/en/Beauty-Personal-Care/Makeup-Nails/c/NF2040000"
+        },        
+        {
+            "category": "Beauty & Personal Care",
+            "subcat": "Face & Body Skincare",
+            "url": "https://www.carrefouruae.com/mafuae/en/c/NF2020000/"
+        },        
+        {
+            "category": "Beauty & Personal Care",
+            "subcat": "Hair Care",
+            "url": "https://www.carrefouruae.com/mafuae/en/c/NF2030000/"
+        },             
+        {
+            "category": "Beauty & Personal Care",
+            "subcat": "Natural Personal Care",
+            "url": "https://www.carrefouruae.com/mafuae/en/Beauty-Personal-Care/Natural-Personal-Care/c/NF2112000"
+        },        
+        {
+            "category": "Beauty & Personal Care",
+            "subcat": "Men's Grooming",
+            "url": "https://www.carrefouruae.com/mafuae/en/Beauty-Personal-Care/Men-s-Grooming/c/NF2050000"
+        },        
+        {
+            "category": "Beauty & Personal Care",
+            "subcat": "Personal Care & Wellbeing",
+            "url": "https://www.carrefouruae.com/mafuae/en/Beauty-Personal-Care/Personal-Care-Wellbeing/c/NF2070000"
+        },        
+        {
+            "category": "Beauty & Personal Care",
+            "subcat": "Shower, Bath & Soap",
+            "url": "https://www.carrefouruae.com/mafuae/en/Beauty-Personal-Care/Shower-Bath-Soap/c/NF2080000"
+        },        
+        {
+            "category": "Beauty & Personal Care",
+            "subcat": "Suncare & Travel Size",
+            "url": "https://www.carrefouruae.com/mafuae/en/Beauty-Personal-Care/Suncare-Travel-Size/c/NF2090000"
+        },        
+        {
+            "category": "Beauty & Personal Care",
+            "subcat": "Toiletries & Perfumes",
+            "url": "https://www.carrefouruae.com/mafuae/en/Beauty-Personal-Care/Toiletries-Perfumes/c/NF2100000"
+        },        
+        {
+            "category": "Stationery & School Supplies",
+            "subcat": "Calculators & Dictionaries",
+            "url": "https://www.carrefouruae.com/mafuae/en/Stationery-School-Supplies/Calculators-Dictionaries/c/NF1320000"
+        },        
+        {
+            "category": "Stationery & School Supplies",
+            "subcat": "Coloring Materials",
+            "url": "https://www.carrefouruae.com/mafuae/en/Stationery-School-Supplies/Coloring-Materials/c/NF1310000"
+        },        
+        {
+            "category": "Stationery & School Supplies",
+            "subcat": "Filing Materials",
+            "url": "https://www.carrefouruae.com/mafuae/en/Stationery-School-Supplies/Filing-Materials/c/NF1330000"
+        },        
+        {
+            "category": "Stationery & School Supplies",
+            "subcat": "Gifting & Party Supplies",
+            "url": "https://www.carrefouruae.com/mafuae/en/Stationery-School-Supplies/Gifting-Party-Supplies/c/NF1340000"
+        },        
+        {
+            "category": "Stationery & School Supplies",
+            "subcat": "Glue & Adhesive Roll",
+            "url": "https://www.carrefouruae.com/mafuae/en/Stationery-School-Supplies/Glue-Adhesive-Roll/c/NF1350000"
+        }        
+    ]
+}
